@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "appletreesrev:stripped_apple_log"
+    },
+    {
+      "item": "appletreesrev:stripped_apple_log"
+    },
+    {
+      "item": "appletreesrev:stripped_apple_log"
+    },
+    {
+      "item": "appletreesrev:stripped_apple_log"
+    },
+    {
+      "item": "appletreesrev:stripped_apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_apple_appletreesrev_kitchen_drawer"
+  }
+}

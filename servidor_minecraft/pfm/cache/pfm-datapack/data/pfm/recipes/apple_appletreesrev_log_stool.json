@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "appletreesrev:apple_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:apple_appletreesrev_log_stool",
+    "count": 4
+  }
+}

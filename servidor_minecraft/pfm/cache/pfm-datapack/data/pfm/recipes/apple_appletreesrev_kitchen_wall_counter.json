@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:apple_appletreesrev_kitchen_wall_counter",
+    "count": 6
+  }
+}

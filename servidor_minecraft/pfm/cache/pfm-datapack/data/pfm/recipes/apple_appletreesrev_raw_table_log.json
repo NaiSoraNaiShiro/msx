@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:apple_appletreesrev_raw_table_log",
+    "count": 4
+  }
+}

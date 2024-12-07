@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_log"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:apple_appletreesrev_chair_classic",
+    "count": 4
+  }
+}

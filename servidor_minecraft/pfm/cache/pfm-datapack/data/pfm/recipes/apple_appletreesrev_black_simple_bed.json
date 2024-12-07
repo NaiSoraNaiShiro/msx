@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "appletreesrev:apple_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:apple_appletreesrev_black_simple_bed"
+  }
+}
