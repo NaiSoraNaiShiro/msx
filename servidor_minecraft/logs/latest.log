@@ -1060,3 +1060,4 @@
 [09Dec2024 00:51:27.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [09Dec2024 00:51:29.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
 [09Dec2024 00:51:39.141] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[09Dec2024 01:13:38.342] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
