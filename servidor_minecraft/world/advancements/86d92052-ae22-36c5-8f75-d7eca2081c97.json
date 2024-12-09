@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2024-12-09 22:43:15 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2024-12-07 21:59:24 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2024-12-09 22:49:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -175,7 +187,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-07 23:29:02 +0000"
+      "apple": "2024-12-09 21:45:19 +0000",
+      "bread": "2024-12-07 23:29:02 +0000",
+      "golden_apple": "2024-12-09 21:52:44 +0000"
     },
     "done": false
   },
@@ -227,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 22:00:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -257,9 +277,21 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2024-12-09 22:24:13 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-07 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2024-12-09 22:12:51 +0000"
     },
     "done": true
   },
@@ -272,6 +304,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-07 23:21:17 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-09 22:13:19 +0000"
     },
     "done": true
   },
@@ -347,6 +385,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-09 22:11:02 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2024-12-09 22:26:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -397,6 +447,12 @@
       "minecraft:plains": "2024-12-07 21:59:24 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2024-12-09 22:12:35 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -461,6 +517,12 @@
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2024-12-09 22:26:06 +0000"
     },
     "done": true
   },
@@ -591,6 +653,18 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-09 22:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-09 22:12:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -637,6 +711,12 @@
   "crossbowverhaul:recipes/combat/bolt_iron": {
     "criteria": {
       "has_ingot": "2024-12-07 22:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 22:41:31 +0000"
     },
     "done": true
   },
