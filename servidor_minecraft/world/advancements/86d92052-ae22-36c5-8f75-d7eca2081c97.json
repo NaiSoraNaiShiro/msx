@@ -29,6 +29,15 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "beetroot": "2024-12-10 21:34:35 +0000",
+      "potato": "2024-12-10 21:34:46 +0000",
+      "wheat": "2024-12-10 21:34:38 +0000",
+      "carrot": "2024-12-10 21:34:33 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -529,6 +538,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-07 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-10 21:34:35 +0000"
     },
     "done": true
   },
