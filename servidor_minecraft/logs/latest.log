@@ -1197,3 +1197,8 @@
 [10Dec2024 23:33:57.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [10Dec2024 23:38:05.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [10Dec2024 23:38:09.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[10Dec2024 23:42:48.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was burnt to a crisp whilst fighting Husk
+[10Dec2024 23:42:49.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 23:42:49.578] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 23:48:59.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[10Dec2024 23:49:02.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!

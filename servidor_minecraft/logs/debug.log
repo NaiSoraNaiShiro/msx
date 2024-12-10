@@ -18355,3 +18355,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Dec2024 23:42:10.127] [IO-Worker-230/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
 [10Dec2024 23:42:10.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 23:42:10.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 23:42:48.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was burnt to a crisp whilst fighting Husk
+[10Dec2024 23:42:49.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 23:42:49.578] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 23:45:21.452] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[10Dec2024 23:47:10.114] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[10Dec2024 23:47:10.115] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-240
+[10Dec2024 23:47:10.116] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-241
+[10Dec2024 23:47:10.116] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
+[10Dec2024 23:47:10.122] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-243
+[10Dec2024 23:47:10.122] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-244
+[10Dec2024 23:47:10.123] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-245
+[10Dec2024 23:47:10.123] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-246
+[10Dec2024 23:47:10.124] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-247
+[10Dec2024 23:47:10.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 23:47:10.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 23:48:41.402] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[10Dec2024 23:48:59.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[10Dec2024 23:49:02.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[10Dec2024 23:52:01.352] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[10Dec2024 23:52:01.402] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[10Dec2024 23:52:10.113] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-248
+[10Dec2024 23:52:10.114] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-249
+[10Dec2024 23:52:10.114] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[10Dec2024 23:52:10.115] [IO-Worker-247/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[10Dec2024 23:52:10.119] [IO-Worker-247/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
+[10Dec2024 23:52:10.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 23:52:10.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
