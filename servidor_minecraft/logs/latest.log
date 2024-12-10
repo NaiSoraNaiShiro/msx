@@ -1089,3 +1089,5 @@
 [10Dec2024 22:28:22.514] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [10Dec2024 22:28:22.514] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [10Dec2024 22:31:43.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Penteconter]
+[10Dec2024 22:46:08.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[10Dec2024 22:48:26.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
