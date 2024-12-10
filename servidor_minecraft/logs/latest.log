@@ -1169,3 +1169,25 @@
 [10Dec2024 23:00:41.126] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2cd4113c
 [10Dec2024 23:00:41.127] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6353d7ce
 [10Dec2024 23:00:41.127] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6616c42b
+[10Dec2024 23:02:21.118] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2d51a907]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@2d51a907 ignoring light level
+[10Dec2024 23:02:21.118] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+[10Dec2024 23:02:21.118] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[10Dec2024 23:02:21.119] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[10Dec2024 23:02:21.119] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6308e5c4
+[10Dec2024 23:02:21.120] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f377cfd
+[10Dec2024 23:02:21.120] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@66add596
+[10Dec2024 23:02:21.121] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2958e578
+[10Dec2024 23:02:21.122] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3e900b9a
+[10Dec2024 23:02:21.123] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1c30cc18
+[10Dec2024 23:02:21.123] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@232e03bf
+[10Dec2024 23:02:21.124] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7ece3e4c
+[10Dec2024 23:02:21.124] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f5ede
+[10Dec2024 23:02:21.125] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@d71573f
+[10Dec2024 23:02:21.125] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@71457d4
+[10Dec2024 23:02:21.126] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8ca903d
+[10Dec2024 23:02:21.126] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@75e280c8
+[10Dec2024 23:02:21.126] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@341bd313
+[10Dec2024 23:02:21.127] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2f791fa8
+[10Dec2024 23:04:21.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[10Dec2024 23:08:17.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[10Dec2024 23:11:21.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
