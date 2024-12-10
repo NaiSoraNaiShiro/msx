@@ -204,6 +204,12 @@
 					item: "firstaid:bandage"
 					count: 2
 				}
+				{
+					id: "6630304E79F92805"
+					type: "choice"
+					exclude_from_claim_all: true
+					table_id: 3132227616718337425L
+				}
 			]
 		}
 		{

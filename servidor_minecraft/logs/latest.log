@@ -1078,3 +1078,13 @@
 [10Dec2024 22:18:24.294] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 22:18:24.412] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
 [10Dec2024 22:18:24.451] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:00:59 at 328263, 328263
+[10Dec2024 22:27:13.365] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d0025fc
+[10Dec2024 22:27:50.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[10Dec2024 22:28:02.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[10Dec2024 22:28:21.341] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[10Dec2024 22:28:21.341] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[10Dec2024 22:28:21.342] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[10Dec2024 22:28:21.342] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[10Dec2024 22:28:22.513] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[10Dec2024 22:28:22.514] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[10Dec2024 22:28:22.514] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
