@@ -1,3 +1,6 @@
 [11Dec2024 00:09:03.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
 [11Dec2024 00:12:20.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [11Dec2024 00:12:25.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[11Dec2024 00:13:39.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro tried to cross barbed wire
+[11Dec2024 00:13:40.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 00:13:40.816] [Server thread/INFO] [tac/]: PENDING
