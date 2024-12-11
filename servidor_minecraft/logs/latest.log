@@ -10,3 +10,6 @@
 [11Dec2024 00:23:24.315] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in lostcities:lostcity
 [11Dec2024 00:23:24.352] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:overworld
 [11Dec2024 00:26:27.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[11Dec2024 00:40:34.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro died from dehydration
+[11Dec2024 00:40:35.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 00:40:35.840] [Server thread/INFO] [tac/]: PENDING
