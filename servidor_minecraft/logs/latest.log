@@ -1089,3 +1089,26 @@
 [11Dec2024 21:49:14.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@725aa6c0
 [11Dec2024 21:53:46.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [HAMMAH!]
 [11Dec2024 21:59:31.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Decorative and sturdy]
+[11Dec2024 22:08:10.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: Disconnected
+[11Dec2024 22:08:10.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[11Dec2024 22:08:10.778] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[11Dec2024 22:08:10.779] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 577678, 579414
+[11Dec2024 22:08:23.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[11Dec2024 22:08:23.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 22:08:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 22:08:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 22:08:23.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 22:08:24.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 22:08:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[11Dec2024 22:08:24.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[11Dec2024 22:08:24.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 22:08:24.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 22:08:24.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 22:08:24.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[11Dec2024 22:08:24.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[11Dec2024 22:08:24.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 22:08:24.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Dec2024 22:08:24.297] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[11Dec2024 22:08:24.299] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[11Dec2024 22:08:24.300] [Server thread/INFO] [configured/]: Unloading server configs...
+[11Dec2024 22:08:24.301] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

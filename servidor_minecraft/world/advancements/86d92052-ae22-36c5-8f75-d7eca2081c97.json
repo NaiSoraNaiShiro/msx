@@ -105,6 +105,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2024-12-11 21:59:31 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2024-12-07 21:59:25 +0000"
