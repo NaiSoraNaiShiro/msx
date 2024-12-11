@@ -25,6 +25,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "vegetable_soup": "2024-12-11 21:41:08 +0000",
       "beef_stew": "2024-12-10 21:45:09 +0000"
     },
     "done": false
@@ -418,6 +419,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-11 21:38:28 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -613,7 +620,8 @@
     "criteria": {
       "minecraft:husk": "2024-12-07 23:31:38 +0000",
       "minecraft:zombie": "2024-12-07 23:42:25 +0000",
-      "minecraft:drowned": "2024-12-10 23:15:44 +0000"
+      "minecraft:drowned": "2024-12-10 23:15:44 +0000",
+      "minecraft:zombie_villager": "2024-12-11 21:40:18 +0000"
     },
     "done": false
   },

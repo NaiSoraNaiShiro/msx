@@ -17510,3 +17510,125 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 21:39:26.569] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [11Dec2024 21:41:14.934] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
 [11Dec2024 21:41:14.934] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[11Dec2024 21:42:46.519] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Dec2024 21:42:46.569] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Dec2024 21:42:55.142] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[11Dec2024 21:42:55.143] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[11Dec2024 21:42:55.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:42:55.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:43:47.692] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[11Dec2024 21:44:11.352] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[11Dec2024 21:44:11.361] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[11Dec2024 21:44:11.365] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[11Dec2024 21:44:11.366] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[11Dec2024 21:44:11.368] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[11Dec2024 21:44:11.370] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[11Dec2024 21:44:11.373] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[11Dec2024 21:44:11.379] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[11Dec2024 21:44:11.402] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[11Dec2024 21:44:11.415] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[11Dec2024 21:44:11.423] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[11Dec2024 21:44:11.427] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[11Dec2024 21:44:11.436] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[11Dec2024 21:44:11.443] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa8
+[11Dec2024 21:44:11.448] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[11Dec2024 21:44:11.454] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[11Dec2024 21:44:11.457] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[11Dec2024 21:44:11.459] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[11Dec2024 21:44:11.461] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[11Dec2024 21:44:11.464] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[11Dec2024 21:44:11.470] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[11Dec2024 21:44:11.483] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[11Dec2024 21:44:11.488] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[11Dec2024 21:44:11.491] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[11Dec2024 21:44:11.494] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[11Dec2024 21:44:11.496] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[11Dec2024 21:44:11.499] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[11Dec2024 21:44:11.505] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[11Dec2024 21:44:11.520] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[11Dec2024 21:44:11.595] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[11Dec2024 21:44:11.625] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[11Dec2024 21:44:11.662] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[11Dec2024 21:44:11.745] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[11Dec2024 21:44:11.782] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[11Dec2024 21:44:11.853] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[11Dec2024 21:44:11.896] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[11Dec2024 21:44:11.933] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[11Dec2024 21:44:12.032] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:prision
+[11Dec2024 21:44:12.120] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:bases
+[11Dec2024 21:44:12.148] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:baselooters
+[11Dec2024 21:44:12.156] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[11Dec2024 21:44:12.217] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[11Dec2024 21:44:12.241] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[11Dec2024 21:44:12.245] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation1
+[11Dec2024 21:44:12.256] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation2
+[11Dec2024 21:44:12.261] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medic1
+[11Dec2024 21:44:12.262] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[11Dec2024 21:44:12.263] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[11Dec2024 21:44:12.267] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[11Dec2024 21:44:12.273] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[11Dec2024 21:44:12.278] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[11Dec2024 21:44:12.294] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[11Dec2024 21:44:12.302] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[11Dec2024 21:44:12.304] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp1
+[11Dec2024 21:44:12.308] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp2
+[11Dec2024 21:44:12.312] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[11Dec2024 21:44:12.315] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:cabine
+[11Dec2024 21:44:12.329] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[11Dec2024 21:44:12.343] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[11Dec2024 21:44:12.413] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:canada1
+[11Dec2024 21:44:12.440] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:desert1
+[11Dec2024 21:44:12.503] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:city1
+[11Dec2024 21:44:28.932] [Worker-Main38/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 21:44:35.993] [Worker-Main2/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[2, -1]
+[11Dec2024 21:44:42.573] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse
+[11Dec2024 21:44:44.595] [Worker-Main56/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[2, -2]
+[11Dec2024 21:45:38.935] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[11Dec2024 21:46:06.719] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Dec2024 21:46:12.720] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[11Dec2024 21:46:35.376] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e154eb5
+[11Dec2024 21:46:39.762] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1289, y=168, z=-262}
+[11Dec2024 21:46:39.763] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.764] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.764] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.765] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.765] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.766] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.766] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.767] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.767] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.768] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.768] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.769] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.769] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.770] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.771] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.772] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.773] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.773] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.775] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:47:55.139] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[11Dec2024 21:47:55.139] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[11Dec2024 21:47:55.140] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[11Dec2024 21:47:55.141] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[11Dec2024 21:47:55.142] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[11Dec2024 21:47:55.142] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[11Dec2024 21:47:55.144] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, -2] Saved.
+[11Dec2024 21:47:55.145] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, -1] Saved.
+[11Dec2024 21:47:55.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:47:55.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:49:14.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@725aa6c0
+[11Dec2024 21:49:26.575] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Dec2024 21:49:46.375] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.AxolotlAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[11Dec2024 21:49:49.665] [Worker-Main3/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[3, -1]
+[11Dec2024 21:50:05.009] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[11Dec2024 21:50:20.651] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[11Dec2024 21:50:20.652] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[11Dec2024 21:51:55.920] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[11Dec2024 21:52:01.690] [Worker-Main14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main72
+[11Dec2024 21:52:01.691] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[11Dec2024 21:52:01.691] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[11Dec2024 21:52:01.692] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[11Dec2024 21:52:01.929] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[11Dec2024 21:52:01.930] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[11Dec2024 21:52:01.930] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78

@@ -1065,3 +1065,25 @@
 [11Dec2024 21:34:31.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [11Dec2024 21:35:44.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [11Dec2024 21:38:28.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has completed the challenge [Free Willy]
+[11Dec2024 21:46:35.376] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e154eb5
+[11Dec2024 21:46:39.762] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1289, y=168, z=-262}
+[11Dec2024 21:46:39.763] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.764] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.764] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.765] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.765] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.766] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.766] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.767] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.767] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.768] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.768] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.769] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.769] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.770] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.771] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.772] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.773] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.773] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:46:39.775] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
+[11Dec2024 21:49:14.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@725aa6c0
