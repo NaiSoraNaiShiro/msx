@@ -17632,3 +17632,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 21:52:01.929] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
 [11Dec2024 21:52:01.930] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
 [11Dec2024 21:52:01.930] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[11Dec2024 21:52:46.569] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Dec2024 21:52:46.619] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Dec2024 21:52:55.136] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[11Dec2024 21:52:55.136] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[3, -1] Saved.
+[11Dec2024 21:52:55.137] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[11Dec2024 21:52:55.140] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, -2] Saved.
+[11Dec2024 21:52:55.140] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, -1] Saved.
+[11Dec2024 21:52:55.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:52:55.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:53:46.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [HAMMAH!]
+[11Dec2024 21:54:49.147] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[11Dec2024 21:56:06.769] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Dec2024 21:57:19.726] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[11Dec2024 21:57:23.975] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[11Dec2024 21:57:55.147] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[11Dec2024 21:57:55.147] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[11Dec2024 21:57:55.148] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[11Dec2024 21:57:55.149] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[11Dec2024 21:57:55.152] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[11Dec2024 21:57:55.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:57:55.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:59:26.619] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Dec2024 21:59:31.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Decorative and sturdy]
+[11Dec2024 22:00:55.122] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[11Dec2024 22:00:55.123] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88

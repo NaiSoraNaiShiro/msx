@@ -1087,3 +1087,5 @@
 [11Dec2024 21:46:39.773] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
 [11Dec2024 21:46:39.775] [Worker-Main54/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1287, y=168, z=-265}
 [11Dec2024 21:49:14.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@725aa6c0
+[11Dec2024 21:53:46.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [HAMMAH!]
+[11Dec2024 21:59:31.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Decorative and sturdy]
