@@ -4,3 +4,9 @@
 [11Dec2024 00:13:39.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro tried to cross barbed wire
 [11Dec2024 00:13:40.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [11Dec2024 00:13:40.816] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 00:23:24.313] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in deceasedcraft:abyss
+[11Dec2024 00:23:24.314] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:the_nether
+[11Dec2024 00:23:24.315] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:the_end
+[11Dec2024 00:23:24.315] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in lostcities:lostcity
+[11Dec2024 00:23:24.352] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:overworld
+[11Dec2024 00:26:27.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!

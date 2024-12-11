@@ -18467,3 +18467,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 00:22:10.125] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
 [11Dec2024 00:22:10.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 00:22:10.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:23:24.313] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in deceasedcraft:abyss
+[11Dec2024 00:23:24.314] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:the_nether
+[11Dec2024 00:23:24.315] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:the_end
+[11Dec2024 00:23:24.315] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in lostcities:lostcity
+[11Dec2024 00:23:24.352] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1737 in minecraft:overworld
+[11Dec2024 00:25:21.652] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Dec2024 00:26:27.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[11Dec2024 00:26:56.381] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[11Dec2024 00:27:10.115] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[11Dec2024 00:27:10.115] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-306
+[11Dec2024 00:27:10.121] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-307
+[11Dec2024 00:27:10.121] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[11Dec2024 00:27:10.122] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[11Dec2024 00:27:10.122] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[11Dec2024 00:27:10.122] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[11Dec2024 00:27:10.123] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[11Dec2024 00:27:10.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:27:10.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:28:41.602] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Dec2024 00:29:25.911] [IO-Worker-305/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[11Dec2024 00:31:42.573] [IO-Worker-305/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[11Dec2024 00:32:01.552] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Dec2024 00:32:01.602] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Dec2024 00:32:10.114] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[11Dec2024 00:32:10.114] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[11Dec2024 00:32:10.115] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[11Dec2024 00:32:10.119] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[11Dec2024 00:32:10.120] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-319
+[11Dec2024 00:32:10.120] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-320
+[11Dec2024 00:32:10.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:32:10.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
