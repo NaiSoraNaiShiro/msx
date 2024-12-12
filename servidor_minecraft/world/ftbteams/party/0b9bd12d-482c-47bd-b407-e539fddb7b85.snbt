@@ -1,0 +1,22 @@
+{
+	id: "0b9bd12d-482c-47bd-b407-e539fddb7b85"
+	type: "party"
+	owner: "b8ce6e18-9f77-3a95-8e24-69a8490aa4d3"
+	ranks: {
+		b8ce6e18-9f77-3a95-8e24-69a8490aa4d3: "owner"
+		86d92052-ae22-36c5-8f75-d7eca2081c97: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Negks's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C0FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734036849299L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Negks\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b8ce6e18-9f77-3a95-8e24-69a8490aa4d3", date: 1734036849305L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NaiSoraNaiShiro\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734036856468L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"NaiSoraNaiShiro\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

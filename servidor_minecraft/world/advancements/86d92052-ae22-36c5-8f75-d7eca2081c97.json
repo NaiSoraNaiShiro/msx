@@ -26,7 +26,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2024-12-11 21:41:08 +0000",
-      "beef_stew": "2024-12-10 21:45:09 +0000"
+      "beef_stew": "2024-12-10 21:45:09 +0000",
+      "fried_rice": "2024-12-12 21:43:25 +0000"
     },
     "done": false
   },
@@ -114,6 +115,12 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2024-12-07 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/broken_magnet": {
+    "criteria": {
+      "broken_magnet": "2024-12-12 21:15:50 +0000"
     },
     "done": true
   },
@@ -257,6 +264,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2024-12-12 20:12:19 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -353,6 +366,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2024-12-12 20:20:32 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
@@ -362,6 +381,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_item": "2024-12-12 21:11:19 +0000"
     },
     "done": true
   },
@@ -474,6 +499,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/experience_magnet": {
+    "criteria": {
+      "experience_magnet": "2024-12-12 20:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-11 21:52:20 +0000",
@@ -548,6 +579,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/experience_battery": {
+    "criteria": {
+      "experience_battery": "2024-12-12 20:23:59 +0000"
     },
     "done": true
   },
@@ -629,6 +666,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/super_magnet": {
+    "criteria": {
+      "super_magnet": "2024-12-12 21:16:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2024-12-07 23:31:38 +0000",
@@ -689,6 +732,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-12 21:58:18 +0000"
     },
     "done": true
   },

@@ -2,9 +2,7 @@
 	id: "b8ce6e18-9f77-3a95-8e24-69a8490aa4d3"
 	type: "player"
 	player_name: "Negks"
-	ranks: {
-		b8ce6e18-9f77-3a95-8e24-69a8490aa4d3: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Negks"
 		"ftbteams:description": ""

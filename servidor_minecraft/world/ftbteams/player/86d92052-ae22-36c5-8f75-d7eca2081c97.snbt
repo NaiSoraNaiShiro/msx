@@ -2,9 +2,7 @@
 	id: "86d92052-ae22-36c5-8f75-d7eca2081c97"
 	type: "player"
 	player_name: "NaiSoraNaiShiro"
-	ranks: {
-		86d92052-ae22-36c5-8f75-d7eca2081c97: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "NaiSoraNaiShiro"
 		"ftbteams:description": ""
