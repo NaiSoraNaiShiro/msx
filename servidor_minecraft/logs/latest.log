@@ -1068,3 +1068,27 @@
 [13Dec2024 23:45:32.566] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [13Dec2024 23:45:51.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [13Dec2024 23:45:56.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[13Dec2024 23:46:31.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[13Dec2024 23:47:00.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[13Dec2024 23:47:18.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[13Dec2024 23:50:03.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[13Dec2024 23:50:12.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[13Dec2024 23:50:49.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[13Dec2024 23:50:55.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[13Dec2024 23:51:02.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[13Dec2024 23:51:11.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[13Dec2024 23:51:37.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[13Dec2024 23:52:22.633] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@225a60b0
+[13Dec2024 23:52:22.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frangelo[/100.92.23.25:59625] logged in with entity id 100091 at (112.5, 71.0, -431.5)
+[13Dec2024 23:52:22.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo joined the game
+[13Dec2024 23:52:22.684] [Server thread/INFO] [tac/]: PENDING
+[13Dec2024 23:52:22.816] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ed26d68c-27e7-3497-a355-39200b25e00b
+[13Dec2024 23:52:22.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Inhospitable]
+[13Dec2024 23:52:40.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[13Dec2024 23:54:25.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [First Day]
+[13Dec2024 23:54:43.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Frangelo]
+[13Dec2024 23:54:46.303] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60e3d8e6
+[13Dec2024 23:54:46.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50047] logged in with entity id 116535 at (100.85897574928552, 77.0, -444.6917429213011)
+[13Dec2024 23:54:46.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[13Dec2024 23:54:46.331] [Server thread/INFO] [tac/]: PENDING
+[13Dec2024 23:54:46.377] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
