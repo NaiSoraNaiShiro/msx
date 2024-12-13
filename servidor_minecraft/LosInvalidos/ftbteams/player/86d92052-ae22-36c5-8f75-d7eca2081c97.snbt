@@ -1,0 +1,17 @@
+{
+	id: "86d92052-ae22-36c5-8f75-d7eca2081c97"
+	type: "player"
+	player_name: "NaiSoraNaiShiro"
+	ranks: {
+		86d92052-ae22-36c5-8f75-d7eca2081c97: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NaiSoraNaiShiro"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
