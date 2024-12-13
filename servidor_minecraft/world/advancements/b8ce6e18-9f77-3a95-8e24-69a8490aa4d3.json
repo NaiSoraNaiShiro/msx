@@ -434,6 +434,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-12 23:59:42 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-12 19:53:19 +0000"
@@ -474,6 +480,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-12 21:31:29 +0000",
       "minecraft:river": "2024-12-12 20:09:56 +0000",
+      "minecraft:cold_ocean": "2024-12-12 23:58:33 +0000",
       "minecraft:forest": "2024-12-12 20:09:17 +0000",
       "minecraft:plains": "2024-12-12 19:53:19 +0000"
     },
