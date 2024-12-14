@@ -418,6 +418,12 @@
     },
     "done": false
   },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2024-12-14 03:09:54 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
