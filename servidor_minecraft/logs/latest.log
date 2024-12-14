@@ -27,3 +27,93 @@
 [14Dec2024 00:31:48.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Immersive Engineering]
 [14Dec2024 00:39:15.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [14Dec2024 00:39:30.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 00:50:08.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=391, y=27, z=288} but found not block entity block Block{minecraft:stone} at location
+[14Dec2024 00:50:08.508] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=391, y=27, z=288}
+[14Dec2024 00:50:08.508] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=392, y=27, z=288} but found not block entity block Block{minecraft:air} at location
+[14Dec2024 00:50:08.508] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=392, y=27, z=288}
+[14Dec2024 00:54:10.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Zombie Turtle
+[14Dec2024 00:54:13.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 00:54:13.656] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 00:55:35.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/538032, l='ServerLevel[world]', x=198.50, y=50.00, z=13.50]
+[14Dec2024 00:58:03.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 00:58:10.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 00:58:15.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement ['X' Marks the Spot]
+[14Dec2024 01:00:18.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Zombie
+[14Dec2024 01:00:19.062] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 01:00:19.064] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[14Dec2024 01:00:19.064] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 01:00:19.064] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 01:00:19.065] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 01:00:23.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:00:23.202] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:00:41.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Runner
+[14Dec2024 01:00:42.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:00:42.887] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:00:57.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Runner
+[14Dec2024 01:01:03.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:01:03.162] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:01:08.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Zombie
+[14Dec2024 01:01:22.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:01:22.741] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:01:35.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Runner
+[14Dec2024 01:01:44.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:01:44.908] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:01:57.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:02:13.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo fell from a high place
+[14Dec2024 01:02:15.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:02:15.110] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:02:18.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:05:15.843] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c]Trying to start horde event on day 15 with nextDay 15 and time 13000
+[14Dec2024 01:05:15.846] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6aaadd63
+[14Dec2024 01:05:15.848] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 0
+[14Dec2024 01:05:15.849] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 0
+[14Dec2024 01:05:15.849] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 0
+[14Dec2024 01:05:15.930] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c ignoring light level
+[14Dec2024 01:05:15.930] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:05:15.930] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:05:15.931] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:05:15.932] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6671f831
+[14Dec2024 01:05:15.933] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@42c8f2c4
+[14Dec2024 01:05:15.934] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45284dfc
+[14Dec2024 01:05:15.934] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2d435060
+[14Dec2024 01:05:15.935] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@15cc4d7f
+[14Dec2024 01:05:15.935] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@20a2c569
+[14Dec2024 01:05:15.936] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@323a077e
+[14Dec2024 01:05:15.936] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5181f347
+[14Dec2024 01:05:15.937] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@628a4f9
+[14Dec2024 01:05:15.938] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3cea80a8
+[14Dec2024 01:05:15.938] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6717c120
+[14Dec2024 01:05:15.939] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2708dac3
+[14Dec2024 01:05:15.939] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@e809442
+[14Dec2024 01:05:15.939] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@646f2328
+[14Dec2024 01:05:15.940] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@78c0f748
+[14Dec2024 01:05:20.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:05:27.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 01:05:38.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to NaiSoraNaiShiro]
+[14Dec2024 01:05:46.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by The Wheezer
+[14Dec2024 01:05:46.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 01:05:47.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:05:47.567] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:06:06.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Bison
+[14Dec2024 01:06:08.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:06:08.062] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:06:55.887] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c ignoring light level
+[14Dec2024 01:06:55.888] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:06:55.888] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:06:55.888] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:06:55.889] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@588f1dae
+[14Dec2024 01:06:55.890] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6698c7bf
+[14Dec2024 01:06:55.890] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@23efeb52
+[14Dec2024 01:06:55.891] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@b01e10a
+[14Dec2024 01:06:55.891] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7b454f6f
+[14Dec2024 01:06:55.892] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@662e4f14
+[14Dec2024 01:06:55.892] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@a5f62ee
+[14Dec2024 01:06:55.893] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@376bd72a
+[14Dec2024 01:06:55.894] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@164ac7ec
+[14Dec2024 01:06:55.894] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@767c9823
+[14Dec2024 01:06:55.895] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3a6c82ad
+[14Dec2024 01:06:55.895] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3928fdba
+[14Dec2024 01:06:55.896] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4b182cdc
+[14Dec2024 01:06:55.896] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4ef6b9a
+[14Dec2024 01:06:55.897] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@498a41ef
+[14Dec2024 01:07:05.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Sweet Dreams]
