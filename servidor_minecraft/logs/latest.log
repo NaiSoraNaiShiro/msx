@@ -302,3 +302,31 @@
 [14Dec2024 03:36:16.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has reached the goal [Dinner's Served!]
 [14Dec2024 03:37:28.628] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [14Dec2024 03:37:28.639] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-13_23-37-27.zip"
+[14Dec2024 03:40:12.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 03:40:12.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 03:40:12.479] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 03:40:20.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@567f8678
+[14Dec2024 03:40:20.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50643] logged in with entity id 1708833 at (96.71646782155179, 72.0, -448.30127245741323)
+[14Dec2024 03:40:20.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 03:40:20.303] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 03:40:20.341] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 03:41:25.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 03:41:54.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 03:43:41.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 03:44:04.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 03:48:04.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 03:48:04.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 03:48:04.581] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 03:48:11.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d8a7742
+[14Dec2024 03:48:11.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50669] logged in with entity id 1763518 at (77.39166463419848, 96.0, -432.7002915442471)
+[14Dec2024 03:48:11.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 03:48:11.100] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 03:48:11.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 03:48:54.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 03:48:54.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 03:48:54.478] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 03:48:59.332] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f02f335
+[14Dec2024 03:48:59.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50689] logged in with entity id 1768835 at (64.24697523118174, 92.0, -437.80580662119144)
+[14Dec2024 03:48:59.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 03:48:59.352] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 03:48:59.393] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
