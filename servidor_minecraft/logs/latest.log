@@ -1607,3 +1607,11 @@
 [14Dec2024 22:01:04.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
 [14Dec2024 22:01:04.100] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 22:01:04.178] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 22:08:00.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Gamerule doDaylightCycle is now set to: false]
+[14Dec2024 22:08:13.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Gamerule doDaylightCycle is now set to: true]
+[14Dec2024 22:10:10.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 22:10:26.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 22:12:03.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Gamerule doDaylightCycle is now set to: true]
+[14Dec2024 22:13:22.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 22:14:20.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Gamerule doDaylightCycle is now set to: false]
+[14Dec2024 22:14:29.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
