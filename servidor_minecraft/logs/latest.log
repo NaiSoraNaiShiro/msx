@@ -1391,3 +1391,6 @@
 [14Dec2024 20:59:44.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
 [14Dec2024 20:59:44.901] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 20:59:44.944] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 21:05:49.978] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c12fc06
+[14Dec2024 21:09:43.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 21:13:50.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Tunnel Treasures]
