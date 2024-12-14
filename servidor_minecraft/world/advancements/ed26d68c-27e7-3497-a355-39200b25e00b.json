@@ -389,6 +389,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-14 01:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-14 00:51:48 +0000",
@@ -616,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-14 01:35:48 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
@@ -626,6 +638,12 @@
     "criteria": {
       "has_blazepowder": "2024-12-13 23:52:23 +0000",
       "has_bolt": "2024-12-13 23:52:23 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2024-12-14 01:35:48 +0000"
     },
     "done": true
   },

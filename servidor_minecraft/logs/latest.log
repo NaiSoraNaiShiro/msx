@@ -197,3 +197,10 @@
 [14Dec2024 01:16:27.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/688488, l='ServerLevel[world]', x=200.50, y=50.00, z=19.50]
 [14Dec2024 01:20:25.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
 [14Dec2024 01:20:34.998] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14Dec2024 01:27:43.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:29:21.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Stone Age]
+[14Dec2024 01:29:48.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:35:48.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Acquire Hardware]
+[14Dec2024 01:37:14.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:37:27.628] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[14Dec2024 01:37:27.629] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-13_19-48-45.zip"
