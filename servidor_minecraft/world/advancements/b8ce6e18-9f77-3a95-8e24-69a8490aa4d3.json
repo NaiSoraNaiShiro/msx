@@ -705,6 +705,12 @@
     },
     "done": false
   },
+  "cold_sweat:boiler_icebox": {
+    "criteria": {
+      "has_item": "2024-12-14 20:36:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2024-12-12 19:55:59 +0000"
