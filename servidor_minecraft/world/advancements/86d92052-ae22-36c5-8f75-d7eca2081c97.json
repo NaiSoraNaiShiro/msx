@@ -26,6 +26,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2024-12-11 21:41:08 +0000",
+      "vegetable_noodles": "2024-12-14 00:11:07 +0000",
       "beef_stew": "2024-12-10 21:45:09 +0000",
       "fried_rice": "2024-12-12 21:43:25 +0000"
     },
@@ -708,6 +709,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-10 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-14 00:11:07 +0000"
     },
     "done": true
   },
