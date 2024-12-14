@@ -394,3 +394,41 @@
 [14Dec2024 04:47:36.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Negks> [name:"Muerte 00:47:04 12-14-2024", x:659, y:67, z:531, dim:minecraft:overworld]
 [14Dec2024 04:48:45.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
 [14Dec2024 04:49:13.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 04:50:56.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 04:51:25.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 04:51:44.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by entity.hordes.ZombiePlayer.chat
+[14Dec2024 04:51:44.512] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 04:51:44.512] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[14Dec2024 04:51:44.513] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 04:51:44.513] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 04:51:44.513] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 04:51:47.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:51:47.328] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:52:12.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Negks> [name:"Muerte 00:47:04 12-14-2024", x:659, y:67, z:531, dim:minecraft:overworld]
+[14Dec2024 04:53:18.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 04:53:28.266] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Negks'/2169320, l='ServerLevel[world]', x=661.82, y=67.00, z=530.36] died: entity.hordes.ZombiePlayer.chat was slain by Negks
+[14Dec2024 04:53:29.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by entity.hordes.ZombiePlayer.chat
+[14Dec2024 04:53:32.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:53:32.392] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:53:34.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 04:53:49.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Negks'/2201173, l='ServerLevel[world]', x=666.29, y=66.00, z=532.49] died: entity.hordes.ZombiePlayer.chat was slain by Negks
+[14Dec2024 04:54:49.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 04:54:57.742] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14Dec2024 04:55:08.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Infected Police
+[14Dec2024 04:55:09.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:55:09.442] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:55:27.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to Negks]
+[14Dec2024 04:55:27.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Frangelo: hit position BlockPos{x=101, y=78, z=-441} too far away from player BlockPos{x=659, y=79, z=536}.
+[14Dec2024 04:55:57.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Zombie
+[14Dec2024 04:55:58.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:55:58.610] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:56:12.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 04:56:23.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Zombie
+[14Dec2024 04:56:25.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by The Wheezer
+[14Dec2024 04:56:25.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:56:25.223] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:56:29.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 04:56:36.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:56:36.274] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:57:16.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 04:57:20.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]

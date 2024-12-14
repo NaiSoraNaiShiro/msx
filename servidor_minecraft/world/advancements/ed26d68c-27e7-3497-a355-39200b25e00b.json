@@ -25,7 +25,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "roasted_mutton_chops": "2024-12-14 03:50:28 +0000"
+      "roasted_mutton_chops": "2024-12-14 03:50:28 +0000",
+      "beef_stew": "2024-12-14 04:49:18 +0000"
     },
     "done": false
   },
@@ -688,6 +689,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-14 04:49:18 +0000"
     },
     "done": true
   },
