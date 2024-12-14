@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-14 05:42:25 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/waterskin": {
     "criteria": {
       "has_recipe": "2024-12-12 19:53:19 +0000"

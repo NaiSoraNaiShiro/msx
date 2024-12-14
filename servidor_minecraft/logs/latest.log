@@ -499,3 +499,34 @@
 [14Dec2024 05:39:33.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
 [14Dec2024 05:40:11.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Negks> [name:"Muerte 01:36:15 12-14-2024", x:918, y:72, z:457, dim:minecraft:overworld]
 [14Dec2024 05:40:35.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to 918.500000, 72.000000, 457.500000]
+[14Dec2024 05:42:20.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frangelo lost connection: Disconnected
+[14Dec2024 05:42:20.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo left the game
+[14Dec2024 05:42:20.238] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ed26d68c-27e7-3497-a355-39200b25e00b
+[14Dec2024 05:42:25.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Spooky Scary Skeleton]
+[14Dec2024 05:42:29.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 05:43:27.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 05:43:27.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 05:43:27.480] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 05:43:29.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: Disconnected
+[14Dec2024 05:43:29.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[14Dec2024 05:43:29.530] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 05:43:29.530] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 1329138, 1081487
+[14Dec2024 05:43:34.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[14Dec2024 05:43:34.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 05:43:34.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 05:43:34.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 05:43:34.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Dec2024 05:43:34.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[14Dec2024 05:43:34.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[14Dec2024 05:43:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Dec2024 05:43:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Dec2024 05:43:34.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Dec2024 05:43:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[14Dec2024 05:43:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[14Dec2024 05:43:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Dec2024 05:43:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Dec2024 05:43:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Dec2024 05:43:34.781] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[14Dec2024 05:43:34.790] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[14Dec2024 05:43:34.791] [Server thread/INFO] [configured/]: Unloading server configs...
+[14Dec2024 05:43:34.791] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
