@@ -18728,3 +18728,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 01:37:18.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 01:37:27.628] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [14Dec2024 01:37:27.629] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-13_19-48-45.zip"
+[14Dec2024 01:40:31.822] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 01:41:42.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:41:45.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:42:17.943] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[14Dec2024 01:42:17.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[14Dec2024 01:42:17.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[14Dec2024 01:42:17.945] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[14Dec2024 01:42:17.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:42:18.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:43:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo fell from a high place
+[14Dec2024 01:43:05.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:43:05.509] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:43:51.080] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:51.081] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:51.081] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:51.081] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:51.081] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:51.772] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 01:43:52.079] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:52.079] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:52.079] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:52.079] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:43:52.079] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[14Dec2024 01:44:03.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:45:42.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 01:47:11.722] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 01:47:11.722] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 01:47:17.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[14Dec2024 01:47:17.948] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-207
+[14Dec2024 01:47:17.948] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[14Dec2024 01:47:17.949] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[14Dec2024 01:47:17.957] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[14Dec2024 01:47:17.958] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[14Dec2024 01:47:17.960] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[14Dec2024 01:47:17.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:47:18.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:47:40.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has reached the goal [You Need a Mint]
