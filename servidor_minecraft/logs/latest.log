@@ -1370,3 +1370,7 @@
 [14Dec2024 20:11:11.455] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e22aedf
 [14Dec2024 20:11:11.456] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e22aedf
 [14Dec2024 20:11:11.457] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Can't spawn wave because max cap has been reached
+[14Dec2024 20:15:05.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 20:15:09.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 20:16:04.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 20:16:49.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
