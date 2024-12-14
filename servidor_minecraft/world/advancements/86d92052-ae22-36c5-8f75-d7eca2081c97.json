@@ -644,6 +644,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-14 20:07:42 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2024-12-07 22:00:57 +0000"

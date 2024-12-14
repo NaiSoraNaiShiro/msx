@@ -17873,3 +17873,326 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 20:00:47.809] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [14Dec2024 20:01:13.212] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$39b3ab0d1603478c805d6b023fde0a68 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
 [14Dec2024 20:01:41.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 20:03:23.858] [Worker-Main7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main7 shutdown
+[14Dec2024 20:03:36.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 20:03:40.061] [Worker-Main15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main45
+[14Dec2024 20:03:49.933] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[14Dec2024 20:04:07.759] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 20:04:07.809] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 20:04:13.183] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[14Dec2024 20:04:13.184] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[14Dec2024 20:04:13.184] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[14Dec2024 20:04:13.186] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[14Dec2024 20:04:13.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 20:04:13.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 20:04:31.371] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Trying to start horde event on day 52 with nextDay 45 and time 13000
+[14Dec2024 20:04:31.375] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4af73092
+[14Dec2024 20:04:31.375] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4af73092
+[14Dec2024 20:04:31.376] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4af73092
+[14Dec2024 20:04:31.376] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4af73092
+[14Dec2024 20:04:31.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 30
+[14Dec2024 20:04:31.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+[14Dec2024 20:04:31.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+[14Dec2024 20:04:31.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 30
+[14Dec2024 20:04:31.446] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca ignoring light level
+[14Dec2024 20:04:31.447] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:04:31.447] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:04:31.447] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:04:31.447] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:04:31.448] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@58ddd308
+[14Dec2024 20:04:31.448] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@58ddd308
+[14Dec2024 20:04:31.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@58ddd308
+[14Dec2024 20:04:31.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@58ddd308
+[14Dec2024 20:04:31.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7665b365
+[14Dec2024 20:04:31.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7665b365
+[14Dec2024 20:04:31.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7665b365
+[14Dec2024 20:04:31.452] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7665b365
+[14Dec2024 20:04:31.452] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3bf64cdd
+[14Dec2024 20:04:31.452] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3bf64cdd
+[14Dec2024 20:04:31.452] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3bf64cdd
+[14Dec2024 20:04:31.453] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3bf64cdd
+[14Dec2024 20:04:31.470] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31cbdbf1
+[14Dec2024 20:04:31.470] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31cbdbf1
+[14Dec2024 20:04:31.470] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31cbdbf1
+[14Dec2024 20:04:31.471] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31cbdbf1
+[14Dec2024 20:04:31.471] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51e20c3a
+[14Dec2024 20:04:31.472] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51e20c3a
+[14Dec2024 20:04:31.472] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51e20c3a
+[14Dec2024 20:04:31.472] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51e20c3a
+[14Dec2024 20:04:31.473] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@19805497
+[14Dec2024 20:04:31.473] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@19805497
+[14Dec2024 20:04:31.473] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@19805497
+[14Dec2024 20:04:31.474] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@19805497
+[14Dec2024 20:04:31.474] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2b815476
+[14Dec2024 20:04:31.474] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2b815476
+[14Dec2024 20:04:31.475] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2b815476
+[14Dec2024 20:04:31.475] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2b815476
+[14Dec2024 20:04:31.475] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@686f867a
+[14Dec2024 20:04:31.476] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@686f867a
+[14Dec2024 20:04:31.476] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@686f867a
+[14Dec2024 20:04:31.476] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@686f867a
+[14Dec2024 20:04:31.477] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@629092f2
+[14Dec2024 20:04:31.477] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@629092f2
+[14Dec2024 20:04:31.477] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@629092f2
+[14Dec2024 20:04:31.478] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@629092f2
+[14Dec2024 20:04:31.478] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45d9f743
+[14Dec2024 20:04:31.478] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45d9f743
+[14Dec2024 20:04:31.478] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45d9f743
+[14Dec2024 20:04:31.479] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45d9f743
+[14Dec2024 20:04:31.479] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1eb37d4d
+[14Dec2024 20:04:31.479] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1eb37d4d
+[14Dec2024 20:04:31.480] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1eb37d4d
+[14Dec2024 20:04:31.480] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1eb37d4d
+[14Dec2024 20:04:31.480] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@66d93b07
+[14Dec2024 20:04:31.481] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@66d93b07
+[14Dec2024 20:04:31.481] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@66d93b07
+[14Dec2024 20:04:31.481] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@66d93b07
+[14Dec2024 20:04:31.482] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45be734e
+[14Dec2024 20:04:31.482] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45be734e
+[14Dec2024 20:04:31.482] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45be734e
+[14Dec2024 20:04:31.483] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@45be734e
+[14Dec2024 20:04:31.483] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1d745ee2
+[14Dec2024 20:04:31.484] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1d745ee2
+[14Dec2024 20:04:31.484] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1d745ee2
+[14Dec2024 20:04:31.484] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1d745ee2
+[14Dec2024 20:04:31.485] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@309d7958
+[14Dec2024 20:04:31.485] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@309d7958
+[14Dec2024 20:04:31.485] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@309d7958
+[14Dec2024 20:04:31.486] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@309d7958
+[14Dec2024 20:04:31.486] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8af5ca1
+[14Dec2024 20:04:31.486] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8af5ca1
+[14Dec2024 20:04:31.487] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8af5ca1
+[14Dec2024 20:04:31.487] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8af5ca1
+[14Dec2024 20:04:57.028] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[14Dec2024 20:04:57.028] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14Dec2024 20:06:11.425] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca ignoring light level
+[14Dec2024 20:06:11.426] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:06:11.426] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:06:11.427] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:06:11.427] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:06:11.427] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@457865f6
+[14Dec2024 20:06:11.427] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@457865f6
+[14Dec2024 20:06:11.428] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@457865f6
+[14Dec2024 20:06:11.428] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@457865f6
+[14Dec2024 20:06:11.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7fec4a79
+[14Dec2024 20:06:11.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7fec4a79
+[14Dec2024 20:06:11.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7fec4a79
+[14Dec2024 20:06:11.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7fec4a79
+[14Dec2024 20:06:11.430] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@64440940
+[14Dec2024 20:06:11.430] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@64440940
+[14Dec2024 20:06:11.430] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@64440940
+[14Dec2024 20:06:11.431] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@64440940
+[14Dec2024 20:06:11.432] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6bc3001e
+[14Dec2024 20:06:11.433] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6bc3001e
+[14Dec2024 20:06:11.433] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6bc3001e
+[14Dec2024 20:06:11.433] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6bc3001e
+[14Dec2024 20:06:11.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cb52715
+[14Dec2024 20:06:11.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cb52715
+[14Dec2024 20:06:11.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cb52715
+[14Dec2024 20:06:11.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cb52715
+[14Dec2024 20:06:11.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@79fff9c1
+[14Dec2024 20:06:11.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@79fff9c1
+[14Dec2024 20:06:11.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@79fff9c1
+[14Dec2024 20:06:11.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@79fff9c1
+[14Dec2024 20:06:11.436] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1552ad69
+[14Dec2024 20:06:11.436] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1552ad69
+[14Dec2024 20:06:11.436] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1552ad69
+[14Dec2024 20:06:11.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1552ad69
+[14Dec2024 20:06:11.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ff3274e
+[14Dec2024 20:06:11.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ff3274e
+[14Dec2024 20:06:11.438] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ff3274e
+[14Dec2024 20:06:11.438] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ff3274e
+[14Dec2024 20:06:11.438] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4e8c0475
+[14Dec2024 20:06:11.438] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4e8c0475
+[14Dec2024 20:06:11.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4e8c0475
+[14Dec2024 20:06:11.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4e8c0475
+[14Dec2024 20:06:11.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2c06bca4
+[14Dec2024 20:06:11.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2c06bca4
+[14Dec2024 20:06:11.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2c06bca4
+[14Dec2024 20:06:11.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2c06bca4
+[14Dec2024 20:06:11.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@46cd7980
+[14Dec2024 20:06:11.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@46cd7980
+[14Dec2024 20:06:11.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@46cd7980
+[14Dec2024 20:06:11.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@46cd7980
+[14Dec2024 20:06:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7b9fb557
+[14Dec2024 20:06:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7b9fb557
+[14Dec2024 20:06:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7b9fb557
+[14Dec2024 20:06:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7b9fb557
+[14Dec2024 20:06:11.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4fd3b92b
+[14Dec2024 20:06:11.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4fd3b92b
+[14Dec2024 20:06:11.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4fd3b92b
+[14Dec2024 20:06:11.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4fd3b92b
+[14Dec2024 20:06:11.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5eec02b6
+[14Dec2024 20:06:11.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5eec02b6
+[14Dec2024 20:06:11.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5eec02b6
+[14Dec2024 20:06:11.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5eec02b6
+[14Dec2024 20:06:11.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fe93ce1
+[14Dec2024 20:06:11.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fe93ce1
+[14Dec2024 20:06:11.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fe93ce1
+[14Dec2024 20:06:11.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fe93ce1
+[14Dec2024 20:06:11.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31a44b69
+[14Dec2024 20:06:11.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31a44b69
+[14Dec2024 20:06:11.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31a44b69
+[14Dec2024 20:06:11.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31a44b69
+[14Dec2024 20:07:27.909] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 20:07:30.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 20:07:42.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has completed the challenge [I'm not sugar coating it]
+[14Dec2024 20:07:51.431] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca ignoring light level
+[14Dec2024 20:07:51.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:07:51.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:07:51.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:07:51.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:07:51.432] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@18eccc8a
+[14Dec2024 20:07:51.433] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@18eccc8a
+[14Dec2024 20:07:51.433] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@18eccc8a
+[14Dec2024 20:07:51.433] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@18eccc8a
+[14Dec2024 20:07:51.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1f02225f
+[14Dec2024 20:07:51.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1f02225f
+[14Dec2024 20:07:51.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1f02225f
+[14Dec2024 20:07:51.434] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1f02225f
+[14Dec2024 20:07:51.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a734dc9
+[14Dec2024 20:07:51.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a734dc9
+[14Dec2024 20:07:51.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a734dc9
+[14Dec2024 20:07:51.435] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a734dc9
+[14Dec2024 20:07:51.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6ecee1d6
+[14Dec2024 20:07:51.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6ecee1d6
+[14Dec2024 20:07:51.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6ecee1d6
+[14Dec2024 20:07:51.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6ecee1d6
+[14Dec2024 20:07:51.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7cbed52f
+[14Dec2024 20:07:51.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7cbed52f
+[14Dec2024 20:07:51.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7cbed52f
+[14Dec2024 20:07:51.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7cbed52f
+[14Dec2024 20:07:51.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51f6411
+[14Dec2024 20:07:51.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51f6411
+[14Dec2024 20:07:51.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51f6411
+[14Dec2024 20:07:51.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51f6411
+[14Dec2024 20:07:51.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7d71607d
+[14Dec2024 20:07:51.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7d71607d
+[14Dec2024 20:07:51.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7d71607d
+[14Dec2024 20:07:51.441] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7d71607d
+[14Dec2024 20:07:51.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e27e43f
+[14Dec2024 20:07:51.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e27e43f
+[14Dec2024 20:07:51.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e27e43f
+[14Dec2024 20:07:51.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e27e43f
+[14Dec2024 20:07:51.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cf14bba
+[14Dec2024 20:07:51.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cf14bba
+[14Dec2024 20:07:51.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cf14bba
+[14Dec2024 20:07:51.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cf14bba
+[14Dec2024 20:07:51.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@34b2c296
+[14Dec2024 20:07:51.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@34b2c296
+[14Dec2024 20:07:51.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@34b2c296
+[14Dec2024 20:07:51.445] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@34b2c296
+[14Dec2024 20:07:51.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c69672b
+[14Dec2024 20:07:51.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c69672b
+[14Dec2024 20:07:51.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c69672b
+[14Dec2024 20:07:51.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c69672b
+[14Dec2024 20:07:51.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1633a5c2
+[14Dec2024 20:07:51.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1633a5c2
+[14Dec2024 20:07:51.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1633a5c2
+[14Dec2024 20:07:51.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1633a5c2
+[14Dec2024 20:07:51.448] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2190ce02
+[14Dec2024 20:07:51.448] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2190ce02
+[14Dec2024 20:07:51.448] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2190ce02
+[14Dec2024 20:07:51.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2190ce02
+[14Dec2024 20:07:51.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@fef7eae
+[14Dec2024 20:07:51.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@fef7eae
+[14Dec2024 20:07:51.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@fef7eae
+[14Dec2024 20:07:51.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@fef7eae
+[14Dec2024 20:07:51.450] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@10c64b64
+[14Dec2024 20:07:51.450] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@10c64b64
+[14Dec2024 20:07:51.450] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@10c64b64
+[14Dec2024 20:07:51.450] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@10c64b64
+[14Dec2024 20:07:51.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@74d908fe
+[14Dec2024 20:07:51.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@74d908fe
+[14Dec2024 20:07:51.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@74d908fe
+[14Dec2024 20:07:51.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@74d908fe
+[14Dec2024 20:09:13.180] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[14Dec2024 20:09:13.183] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[14Dec2024 20:09:13.183] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[14Dec2024 20:09:13.184] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[14Dec2024 20:09:13.196] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[14Dec2024 20:09:13.197] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[14Dec2024 20:09:13.198] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[14Dec2024 20:09:13.199] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[14Dec2024 20:09:13.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 20:09:13.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 20:09:31.420] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca ignoring light level
+[14Dec2024 20:09:31.420] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:09:31.421] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:09:31.421] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:09:31.421] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:09:31.421] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7080ab07
+[14Dec2024 20:09:31.422] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7080ab07
+[14Dec2024 20:09:31.422] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7080ab07
+[14Dec2024 20:09:31.422] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7080ab07
+[14Dec2024 20:09:31.423] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@584fb899
+[14Dec2024 20:09:31.423] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@584fb899
+[14Dec2024 20:09:31.423] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@584fb899
+[14Dec2024 20:09:31.423] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@584fb899
+[14Dec2024 20:09:31.424] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a5345f0
+[14Dec2024 20:09:31.424] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a5345f0
+[14Dec2024 20:09:31.424] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a5345f0
+[14Dec2024 20:09:31.424] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a5345f0
+[14Dec2024 20:09:31.425] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@bd5fada
+[14Dec2024 20:09:31.425] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@bd5fada
+[14Dec2024 20:09:31.426] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@bd5fada
+[14Dec2024 20:09:31.426] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@bd5fada
+[14Dec2024 20:09:31.426] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4c74f3e1
+[14Dec2024 20:09:31.426] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4c74f3e1
+[14Dec2024 20:09:31.426] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4c74f3e1
+[14Dec2024 20:09:31.427] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4c74f3e1
+[14Dec2024 20:09:31.427] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@733efabc
+[14Dec2024 20:09:31.427] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@733efabc
+[14Dec2024 20:09:31.427] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@733efabc
+[14Dec2024 20:09:31.428] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@733efabc
+[14Dec2024 20:09:31.428] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e8dc864
+[14Dec2024 20:09:31.428] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e8dc864
+[14Dec2024 20:09:31.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e8dc864
+[14Dec2024 20:09:31.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e8dc864
+[14Dec2024 20:09:31.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e675500
+[14Dec2024 20:09:31.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e675500
+[14Dec2024 20:09:31.430] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e675500
+[14Dec2024 20:09:31.430] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e675500
+[14Dec2024 20:09:31.430] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Can't spawn wave because max cap has been reached
+[14Dec2024 20:09:33.871] [Worker-Main23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main23 shutdown
+[14Dec2024 20:09:38.748] [Worker-Main17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main59
+[14Dec2024 20:10:47.859] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 20:11:02.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Huddle Close]
+[14Dec2024 20:11:11.431] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca ignoring light level
+[14Dec2024 20:11:11.434] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:11:11.435] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:11:11.435] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:11:11.436] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 45
+[14Dec2024 20:11:11.437] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@16fba18d
+[14Dec2024 20:11:11.438] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@16fba18d
+[14Dec2024 20:11:11.438] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@16fba18d
+[14Dec2024 20:11:11.439] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@16fba18d
+[14Dec2024 20:11:11.440] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@137f267e
+[14Dec2024 20:11:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@137f267e
+[14Dec2024 20:11:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@137f267e
+[14Dec2024 20:11:11.442] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@137f267e
+[14Dec2024 20:11:11.443] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f0ae5c0
+[14Dec2024 20:11:11.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f0ae5c0
+[14Dec2024 20:11:11.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f0ae5c0
+[14Dec2024 20:11:11.444] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f0ae5c0
+[14Dec2024 20:11:11.446] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3657a8a7
+[14Dec2024 20:11:11.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3657a8a7
+[14Dec2024 20:11:11.447] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3657a8a7
+[14Dec2024 20:11:11.448] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3657a8a7
+[14Dec2024 20:11:11.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f08d277
+[14Dec2024 20:11:11.449] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f08d277
+[14Dec2024 20:11:11.450] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f08d277
+[14Dec2024 20:11:11.450] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f08d277
+[14Dec2024 20:11:11.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@592d3e4d
+[14Dec2024 20:11:11.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@592d3e4d
+[14Dec2024 20:11:11.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@592d3e4d
+[14Dec2024 20:11:11.451] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@592d3e4d
+[14Dec2024 20:11:11.452] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49c67d8e
+[14Dec2024 20:11:11.452] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49c67d8e
+[14Dec2024 20:11:11.453] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49c67d8e
+[14Dec2024 20:11:11.453] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49c67d8e
+[14Dec2024 20:11:11.454] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e22aedf
+[14Dec2024 20:11:11.455] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e22aedf
+[14Dec2024 20:11:11.455] [Server thread/INFO] [hordes/]: Applying script hordes:wave_2_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e22aedf
+[14Dec2024 20:11:11.456] [Server thread/INFO] [hordes/]: Applying script hordes:wave_3_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e22aedf
+[14Dec2024 20:11:11.457] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@41023eca]Can't spawn wave because max cap has been reached
