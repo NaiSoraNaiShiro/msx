@@ -1,11 +1,11 @@
 {
 	id: "0b9bd12d-482c-47bd-b407-e539fddb7b85"
 	type: "party"
-	owner: "b8ce6e18-9f77-3a95-8e24-69a8490aa4d3"
+	owner: "86d92052-ae22-36c5-8f75-d7eca2081c97"
 	ranks: {
-		b8ce6e18-9f77-3a95-8e24-69a8490aa4d3: "owner"
+		b8ce6e18-9f77-3a95-8e24-69a8490aa4d3: "officer"
 		ed26d68c-27e7-3497-a355-39200b25e00b: "member"
-		86d92052-ae22-36c5-8f75-d7eca2081c97: "member"
+		86d92052-ae22-36c5-8f75-d7eca2081c97: "owner"
 	}
 	properties: {
 		"ftbteams:display_name": "Negks's Party"
@@ -20,6 +20,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734036856468L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"NaiSoraNaiShiro\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
 		{ from: "b8ce6e18-9f77-3a95-8e24-69a8490aa4d3", date: 1734143839954L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Frangelo\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734143844343L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Frangelo\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b8ce6e18-9f77-3a95-8e24-69a8490aa4d3", date: 1734148116735L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"color\":\"yellow\",\"insertion\":\"NaiSoraNaiShiro\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/tell NaiSoraNaiShiro \"},\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:player\",\"id\":\"86d92052-ae22-36c5-8f75-d7eca2081c97\",\"name\":{\"text\":\"NaiSoraNaiShiro\"}}},\"extra\":[{\"text\":\"NaiSoraNaiShiro\"}],\"text\":\"\"}]}" }
 	]
 	extra: { }
 }

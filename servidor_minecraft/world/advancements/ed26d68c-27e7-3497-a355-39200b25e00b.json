@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roasted_mutton_chops": "2024-12-14 03:50:28 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
@@ -597,6 +603,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-14 03:50:28 +0000"
     },
     "done": true
   },
