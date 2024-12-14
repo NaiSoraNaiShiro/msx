@@ -274,3 +274,11 @@
 [14Dec2024 02:53:05.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Timed out
 [14Dec2024 02:53:05.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
 [14Dec2024 02:53:05.029] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 03:04:13.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frangelo lost connection: Disconnected
+[14Dec2024 03:04:13.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo left the game
+[14Dec2024 03:04:13.330] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ed26d68c-27e7-3497-a355-39200b25e00b
+[14Dec2024 03:04:19.484] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6cdfd667
+[14Dec2024 03:04:19.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frangelo[/100.92.23.25:50024] logged in with entity id 1455676 at (69.28449673403883, 72.1212968405392, -422.2625837350088)
+[14Dec2024 03:04:19.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo joined the game
+[14Dec2024 03:04:19.503] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 03:04:19.542] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ed26d68c-27e7-3497-a355-39200b25e00b

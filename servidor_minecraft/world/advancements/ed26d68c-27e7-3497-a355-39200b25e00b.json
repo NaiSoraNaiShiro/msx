@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "cold_sweat:root": {
-    "criteria": {
-      "requirement": "2024-12-13 23:52:23 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-12-13 23:52:23 +0000"
     },
     "done": true
   },
@@ -125,15 +125,15 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-14 00:58:15 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-14 00:58:15 +0000"
     },
     "done": true
   },
@@ -293,12 +293,6 @@
     },
     "done": true
   },
-  "nameless_trinkets:obtain/root": {
-    "criteria": {
-      "obtain": "2024-12-13 23:58:20 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
@@ -308,6 +302,12 @@
   "crossbowverhaul:recipes/combat/crossbow_netherite": {
     "criteria": {
       "has_crossbow": "2024-12-13 23:52:23 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2024-12-13 23:58:20 +0000"
     },
     "done": true
   },
@@ -347,12 +347,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-12-14 00:06:00 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-13 23:52:23 +0000"
@@ -362,6 +356,12 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2024-12-13 23:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-14 00:06:00 +0000"
     },
     "done": true
   },
@@ -514,15 +514,15 @@
     },
     "done": false
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-13 23:52:23 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-13 23:52:23 +0000"
     },
     "done": true
   },
