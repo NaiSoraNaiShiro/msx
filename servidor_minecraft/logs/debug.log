@@ -20736,3 +20736,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [14Dec2024 23:14:35.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [14Dec2024 23:14:35.235] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 23:15:30.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 23:16:48.122] [IO-Worker-378/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-380
+[14Dec2024 23:17:28.809] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 23:17:35.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:18:12.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Adventure Mode]
+[14Dec2024 23:19:03.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Uhhh, gross?]
+[14Dec2024 23:19:17.187] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-381
+[14Dec2024 23:19:17.187] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-382
+[14Dec2024 23:19:17.188] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-383
+[14Dec2024 23:19:17.189] [IO-Worker-378/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-384
+[14Dec2024 23:19:17.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:19:17.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:19:24.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:19:40.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:20:01.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:20:16.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:20:48.759] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 23:21:28.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:21:56.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:22:37.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:22:56.121] [IO-Worker-380/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-385
+[14Dec2024 23:24:08.709] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 23:24:08.809] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 23:24:17.189] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-386
+[14Dec2024 23:24:17.190] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-387
+[14Dec2024 23:24:17.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-388
+[14Dec2024 23:24:17.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-389
+[14Dec2024 23:24:17.199] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-390
+[14Dec2024 23:24:17.199] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-391
+[14Dec2024 23:24:17.199] [IO-Worker-386/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-392
+[14Dec2024 23:24:17.200] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-393
+[14Dec2024 23:24:17.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:24:17.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

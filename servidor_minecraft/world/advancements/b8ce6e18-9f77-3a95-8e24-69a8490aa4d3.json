@@ -769,6 +769,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/callus": {
+    "criteria": {
+      "callus": "2024-12-14 23:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-12 20:35:28 +0000"

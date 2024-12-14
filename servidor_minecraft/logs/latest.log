@@ -1864,3 +1864,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [14Dec2024 23:14:35.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [14Dec2024 23:14:35.235] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 23:15:30.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 23:17:35.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:18:12.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Adventure Mode]
+[14Dec2024 23:19:03.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Uhhh, gross?]
+[14Dec2024 23:19:24.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:19:40.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:20:01.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:20:16.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:21:28.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:21:56.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:22:37.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
