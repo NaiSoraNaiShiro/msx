@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-14 01:10:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
@@ -395,6 +401,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 01:07:05 +0000"
     },
     "done": true
   },

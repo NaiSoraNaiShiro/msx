@@ -117,3 +117,81 @@
 [14Dec2024 01:06:55.896] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4ef6b9a
 [14Dec2024 01:06:55.897] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@498a41ef
 [14Dec2024 01:07:05.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Sweet Dreams]
+[14Dec2024 01:07:15.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Frangelo> :monka:
+[14Dec2024 01:07:38.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 01:08:35.895] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c ignoring light level
+[14Dec2024 01:08:35.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:08:35.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:08:35.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:08:35.897] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@390a3b65
+[14Dec2024 01:08:35.897] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2fac9a39
+[14Dec2024 01:08:35.898] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1c35c8d4
+[14Dec2024 01:08:35.898] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e4bbb24
+[14Dec2024 01:08:35.899] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@57142995
+[14Dec2024 01:08:35.899] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c78d179
+[14Dec2024 01:08:35.900] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@11b19c90
+[14Dec2024 01:08:35.900] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1553d323
+[14Dec2024 01:08:35.901] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2bc82166
+[14Dec2024 01:08:35.901] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4caef253
+[14Dec2024 01:08:35.902] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4420a6a
+[14Dec2024 01:08:35.902] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@76c4c812
+[14Dec2024 01:08:35.902] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@101ec94b
+[14Dec2024 01:08:35.903] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@60265f37
+[14Dec2024 01:08:35.903] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@402bf3cf
+[14Dec2024 01:08:57.975] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/634480, l='ServerLevel[world]', x=192.50, y=46.00, z=6.50]
+[14Dec2024 01:09:11.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/636440, l='ServerLevel[world]', x=200.50, y=52.00, z=16.50]
+[14Dec2024 01:09:14.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/636879, l='ServerLevel[world]', x=195.50, y=52.00, z=21.50]
+[14Dec2024 01:10:15.885] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c ignoring light level
+[14Dec2024 01:10:15.885] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:10:15.886] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:10:15.886] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:10:15.886] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@554600f7
+[14Dec2024 01:10:15.887] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@37aa5706
+[14Dec2024 01:10:15.887] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@73cf5e49
+[14Dec2024 01:10:15.888] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@39d12165
+[14Dec2024 01:10:15.888] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1991f699
+[14Dec2024 01:10:15.889] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@67d253cd
+[14Dec2024 01:10:15.889] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e6d80af
+[14Dec2024 01:10:15.890] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3321cf08
+[14Dec2024 01:10:15.890] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@377b2f5e
+[14Dec2024 01:10:15.891] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5699eddc
+[14Dec2024 01:10:15.891] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5774fe55
+[14Dec2024 01:10:15.892] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@37095a70
+[14Dec2024 01:10:15.892] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@f22805d
+[14Dec2024 01:10:15.893] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4a8fd69a
+[14Dec2024 01:10:15.893] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@723391b
+[14Dec2024 01:10:16.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [We Just Want our Hat Back]
+[14Dec2024 01:10:24.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Skelewag
+[14Dec2024 01:10:27.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:10:27.400] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:11:25.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Hot Stuff]
+[14Dec2024 01:11:55.909] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@df88c5c ignoring light level
+[14Dec2024 01:11:55.910] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:11:55.910] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:11:55.910] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+[14Dec2024 01:11:55.910] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@aab1043
+[14Dec2024 01:11:55.911] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56196e1e
+[14Dec2024 01:11:55.911] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e18ffb0
+[14Dec2024 01:11:55.912] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@46b12f31
+[14Dec2024 01:11:55.912] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@604becbf
+[14Dec2024 01:11:55.913] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@43fa6a13
+[14Dec2024 01:11:55.913] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f247388
+[14Dec2024 01:11:55.914] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2a17bbfc
+[14Dec2024 01:11:55.914] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4a5f876e
+[14Dec2024 01:11:55.915] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4ec99fdf
+[14Dec2024 01:11:55.915] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3d5dda2e
+[14Dec2024 01:11:55.916] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@29c8160
+[14Dec2024 01:11:55.916] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@25a913ce
+[14Dec2024 01:11:55.916] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2bf426d2
+[14Dec2024 01:11:55.917] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@134e3825
+[14Dec2024 01:12:21.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/658423, l='ServerLevel[world]', x=194.50, y=49.00, z=23.50]
+[14Dec2024 01:12:46.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/661510, l='ServerLevel[world]', x=198.50, y=51.00, z=13.50]
+[14Dec2024 01:12:54.274] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/662458, l='ServerLevel[world]', x=192.50, y=52.00, z=18.50]
+[14Dec2024 01:12:57.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/662873, l='ServerLevel[world]', x=195.50, y=52.00, z=19.50]
+[14Dec2024 01:14:27.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Skelewag
+[14Dec2024 01:14:29.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 01:14:32.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 01:14:32.245] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 01:16:21.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/687654, l='ServerLevel[world]', x=194.50, y=48.00, z=18.50]
+[14Dec2024 01:16:23.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/687944, l='ServerLevel[world]', x=193.50, y=47.00, z=21.50]
+[14Dec2024 01:16:27.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/688488, l='ServerLevel[world]', x=200.50, y=50.00, z=19.50]
