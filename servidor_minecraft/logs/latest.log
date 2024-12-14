@@ -1732,3 +1732,75 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [14Dec2024 22:50:15.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
 [14Dec2024 22:51:31.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [14Dec2024 22:51:35.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 22:57:08.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 22:57:10.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 22:57:10.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 22:57:10.923] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 22:57:23.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 22:58:34.264] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1466, y=222, z=-848}
+[14Dec2024 22:58:34.265] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1463, y=222, z=-848}
+[14Dec2024 22:58:34.265] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1459, y=222, z=-848}
+[14Dec2024 22:58:34.265] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1459, y=222, z=-848}
+[14Dec2024 22:58:34.266] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1459, y=222, z=-848}
+[14Dec2024 22:58:34.266] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1459, y=222, z=-848}
+[14Dec2024 22:58:34.266] [Worker-Main21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=222, z=-848}
+[14Dec2024 22:58:34.337] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:34.337] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.338] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.340] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.340] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-863}
+[14Dec2024 22:58:34.341] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-863}
+[14Dec2024 22:58:34.343] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-863}
+[14Dec2024 22:58:34.343] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.343] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:34.344] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:34.344] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:34.345] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:34.345] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:34.347] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:34.347] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:34.347] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.348] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.348] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:34.349] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=222, z=-849}
+[14Dec2024 22:58:34.349] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=222, z=-850}
+[14Dec2024 22:58:34.350] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=222, z=-850}
+[14Dec2024 22:58:34.351] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=222, z=-850}
+[14Dec2024 22:58:34.352] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=222, z=-848}
+[14Dec2024 22:58:34.353] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=222, z=-848}
+[14Dec2024 22:58:34.353] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=222, z=-848}
+[14Dec2024 22:58:34.354] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1455, y=222, z=-848}
+[14Dec2024 22:58:34.354] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=222, z=-848}
+[14Dec2024 22:58:34.355] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=222, z=-848}
+[14Dec2024 22:58:34.357] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=222, z=-848}
+[14Dec2024 22:58:36.806] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:36.806] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:36.806] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:36.806] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:36.807] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1458, y=223, z=-864}
+[14Dec2024 22:58:36.807] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1458, y=223, z=-864}
+[14Dec2024 22:58:36.807] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1458, y=223, z=-864}
+[14Dec2024 22:58:36.807] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1456, y=223, z=-864}
+[14Dec2024 22:58:36.807] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1456, y=223, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1456, y=223, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1457, y=224, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=223, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1457, y=225, z=-864}
+[14Dec2024 22:58:36.808] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1456, y=224, z=-864}
+[14Dec2024 22:58:36.809] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1456, y=224, z=-864}
+[14Dec2024 22:58:36.809] [Worker-Main240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1456, y=224, z=-864}
+[14Dec2024 22:58:37.266] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2aeba3c2
+[14Dec2024 22:58:52.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 22:58:55.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53810e06
+[14Dec2024 22:58:55.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50196] logged in with entity id 1286124 at (-1506.4399354236336, 73.0, -249.07182848799258)
+[14Dec2024 22:58:55.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 22:58:55.990] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 22:58:56.003] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 22:59:07.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:01:04.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:01:09.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:03:09.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Decorative and sturdy]

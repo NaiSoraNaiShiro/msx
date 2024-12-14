@@ -508,6 +508,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2024-12-14 22:57:53 +0000",
       "coniferous_forest": "2024-12-07 23:40:36 +0000",
       "seasonal_forest": "2024-12-14 22:34:39 +0000",
       "fir_clearing": "2024-12-07 22:00:18 +0000",
@@ -535,12 +536,14 @@
       "minecraft:beach": "2024-12-09 00:58:48 +0000",
       "minecraft:river": "2024-12-10 22:02:15 +0000",
       "minecraft:stony_shore": "2024-12-14 22:37:33 +0000",
+      "minecraft:snowy_plains": "2024-12-14 22:54:26 +0000",
       "minecraft:snowy_taiga": "2024-12-14 22:38:00 +0000",
       "minecraft:grove": "2024-12-14 22:38:03 +0000",
       "minecraft:cold_ocean": "2024-12-10 22:10:07 +0000",
       "minecraft:forest": "2024-12-07 23:39:44 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 22:35:17 +0000",
       "minecraft:frozen_ocean": "2024-12-14 22:36:47 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-14 22:55:00 +0000",
       "minecraft:plains": "2024-12-07 21:59:24 +0000"
     },
     "done": false
