@@ -1381,3 +1381,13 @@
 [14Dec2024 20:51:45.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [14Dec2024 20:52:01.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [14Dec2024 20:53:38.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 20:59:24.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 20:59:44.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: You logged in from another location
+[14Dec2024 20:59:44.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 20:59:44.819] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 20:59:44.848] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fd23bda
+[14Dec2024 20:59:44.871] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Dec2024 20:59:44.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:49998] logged in with entity id 457912 at (99.69930231008941, 18.0, -453.55586578834004)
+[14Dec2024 20:59:44.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 20:59:44.901] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 20:59:44.944] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
