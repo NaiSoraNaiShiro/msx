@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-14 04:34:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
