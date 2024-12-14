@@ -432,3 +432,12 @@
 [14Dec2024 04:56:36.274] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 04:57:16.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
 [14Dec2024 04:57:20.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 05:02:13.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Close Quarters]
+[14Dec2024 05:02:19.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 05:02:22.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Zombie
+[14Dec2024 05:02:25.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 05:02:25.564] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 05:02:35.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to Frangelo]
+[14Dec2024 05:04:00.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 05:05:10.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 05:06:23.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
