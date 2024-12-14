@@ -21277,3 +21277,48 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [14Dec2024 23:34:17.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 23:34:54.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [14Dec2024 23:35:26.592] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 23:36:06.850] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 23:36:13.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:36:23.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 23:36:23.840] [IO-Worker-415/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-416
+[14Dec2024 23:36:33.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Zombie
+[14Dec2024 23:36:34.472] [IO-Worker-409/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-417
+[14Dec2024 23:36:34.472] [IO-Worker-414/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-418
+[14Dec2024 23:36:35.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:36:35.287] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:36:58.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 23:37:28.909] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 23:39:17.182] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-419
+[14Dec2024 23:39:17.183] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-420
+[14Dec2024 23:39:17.183] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-421
+[14Dec2024 23:39:17.184] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-422
+[14Dec2024 23:39:17.185] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-423
+[14Dec2024 23:39:17.194] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-424
+[14Dec2024 23:39:17.194] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-425
+[14Dec2024 23:39:17.195] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-426
+[14Dec2024 23:39:17.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:39:17.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:39:27.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:39:53.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 23:40:44.839] [IO-Worker-422/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-427
+[14Dec2024 23:40:44.839] [IO-Worker-426/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-428
+[14Dec2024 23:40:48.859] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 23:41:49.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Runner
+[14Dec2024 23:41:50.751] [IO-Worker-426/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-429
+[14Dec2024 23:41:50.752] [IO-Worker-426/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-430
+[14Dec2024 23:41:51.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:41:51.617] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:42:15.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Zombie
+[14Dec2024 23:42:30.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:42:45.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:42:45.699] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:42:47.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:44:08.809] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 23:44:08.909] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 23:44:17.176] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-431
+[14Dec2024 23:44:17.177] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-432
+[14Dec2024 23:44:17.177] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-433
+[14Dec2024 23:44:17.178] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-434
+[14Dec2024 23:44:17.179] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-435
+[14Dec2024 23:44:17.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:44:17.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
