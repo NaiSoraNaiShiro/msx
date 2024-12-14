@@ -350,3 +350,8 @@
 [14Dec2024 03:55:18.591] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
 [14Dec2024 03:55:20.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
 [14Dec2024 03:57:32.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 04:04:42.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro fell from a high place
+[14Dec2024 04:04:43.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 04:04:43.710] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:06:38.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 04:06:47.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
