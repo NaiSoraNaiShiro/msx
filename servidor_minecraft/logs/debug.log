@@ -19965,3 +19965,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 22:24:13.193] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
 [14Dec2024 22:24:13.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 22:24:13.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:27:28.609] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 22:27:38.921] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[14Dec2024 22:27:47.343] [IO-Worker-299/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[14Dec2024 22:28:16.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was burnt to a crisp whilst fighting Zombie
+[14Dec2024 22:28:21.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 22:28:21.885] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 22:28:35.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Negks> [name:"Muerte 18:28:16 12-14-2024", x:250, y:-10, z:-553, dim:minecraft:overworld]
+[14Dec2024 22:29:13.176] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[14Dec2024 22:29:13.176] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
+[14Dec2024 22:29:13.181] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[14Dec2024 22:29:13.181] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[14Dec2024 22:29:13.182] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[14Dec2024 22:29:13.182] [IO-Worker-303/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-306
+[14Dec2024 22:29:13.182] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-307
+[14Dec2024 22:29:13.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:29:13.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:29:32.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to 250.500000, -10.000000, -552.500000]
+[14Dec2024 22:29:57.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 22:30:48.559] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 22:31:19.630] [IO-Worker-299/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[14Dec2024 22:31:19.630] [IO-Worker-306/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[14Dec2024 22:31:39.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 22:32:44.553] [IO-Worker-308/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[14Dec2024 22:32:44.577] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[14Dec2024 22:32:44.577] [IO-Worker-309/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[14Dec2024 22:33:57.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[14Dec2024 22:33:57.090] [IO-Worker-309/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[14Dec2024 22:34:08.459] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 22:34:08.559] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 22:34:13.183] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[14Dec2024 22:34:13.184] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[14Dec2024 22:34:13.197] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[14Dec2024 22:34:13.198] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[14Dec2024 22:34:13.198] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[14Dec2024 22:34:13.199] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[14Dec2024 22:34:13.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:34:13.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:34:58.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
