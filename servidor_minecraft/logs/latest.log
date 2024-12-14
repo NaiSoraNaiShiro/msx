@@ -261,3 +261,16 @@
 [14Dec2024 02:48:38.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
 [14Dec2024 02:48:38.511] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 02:48:38.553] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:48:45.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Isn't It Iron Pick]
+[14Dec2024 02:48:59.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 02:48:59.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 02:48:59.536] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:49:04.893] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a88706b
+[14Dec2024 02:49:04.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:49836] logged in with entity id 1350098 at (70.78449752616369, 72.0, -425.4477720771801)
+[14Dec2024 02:49:04.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 02:49:04.913] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 02:49:04.954] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:51:59.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 02:53:05.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Timed out
+[14Dec2024 02:53:05.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 02:53:05.029] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
