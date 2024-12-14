@@ -355,3 +355,32 @@
 [14Dec2024 04:04:43.710] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 04:06:38.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [14Dec2024 04:06:47.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 04:11:27.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 04:11:27.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 04:11:27.785] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 04:11:32.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ffddaed
+[14Dec2024 04:11:32.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50749] logged in with entity id 1923767 at (70.90575881230095, 93.5, -439.1524483180129)
+[14Dec2024 04:11:32.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 04:11:32.960] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:11:32.998] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 04:11:41.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to Frangelo]
+[14Dec2024 04:12:13.676] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1928987, l='ServerLevel[world]', x=198.50, y=51.00, z=23.50]
+[14Dec2024 04:20:26.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 04:22:56.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has completed the challenge [I'm not sugar coating it]
+[14Dec2024 04:23:09.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 04:23:25.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=443, y=73, z=266} BlockPos{x=443, y=72, z=266}
+[14Dec2024 04:23:32.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: You logged in from another location
+[14Dec2024 04:23:32.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 04:23:32.749] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 04:23:32.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50599] logged in with entity id 2008246 at (503.4262630061218, 82.0, 277.7013225368686)
+[14Dec2024 04:23:32.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 04:23:32.773] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:23:32.820] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 04:23:44.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: You logged in from another location
+[14Dec2024 04:23:44.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[14Dec2024 04:23:44.589] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 04:23:44.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NaiSoraNaiShiro[/100.113.131.81:60409] logged in with entity id 2009514 at (67.0568085581108, 72.0, -442.97784188241764)
+[14Dec2024 04:23:44.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro joined the game
+[14Dec2024 04:23:44.612] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 04:23:44.659] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 04:26:26.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has completed the challenge [I'm not sugar coating it]

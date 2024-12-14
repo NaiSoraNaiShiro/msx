@@ -27,6 +27,7 @@
     "criteria": {
       "ratatouille": "2024-12-14 03:39:02 +0000",
       "roasted_mutton_chops": "2024-12-12 20:53:30 +0000",
+      "pasta_with_meatballs": "2024-12-14 04:10:33 +0000",
       "vegetable_noodles": "2024-12-12 23:03:08 +0000",
       "fish_stew": "2024-12-12 20:13:24 +0000",
       "fried_rice": "2024-12-14 01:40:55 +0000"
@@ -257,6 +258,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "fir_clearing": "2024-12-14 04:14:00 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-12 19:53:19 +0000"
@@ -479,6 +486,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "fir_clearing": "2024-12-14 04:14:00 +0000"
+    },
+    "done": false
+  },
   "nameless_trinkets:obtain/experience_magnet": {
     "criteria": {
       "experience_magnet": "2024-12-12 21:29:58 +0000"
@@ -488,9 +501,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-12 21:31:29 +0000",
+      "minecraft:beach": "2024-12-14 04:14:03 +0000",
       "minecraft:river": "2024-12-12 20:09:56 +0000",
       "minecraft:cold_ocean": "2024-12-12 23:58:33 +0000",
       "minecraft:forest": "2024-12-12 20:09:17 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-14 04:11:49 +0000",
       "minecraft:plains": "2024-12-12 19:53:19 +0000"
     },
     "done": false
@@ -630,6 +645,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-12 19:53:19 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-14 04:22:56 +0000"
     },
     "done": true
   },

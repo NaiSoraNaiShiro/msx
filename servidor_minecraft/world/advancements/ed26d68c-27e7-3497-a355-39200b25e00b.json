@@ -193,7 +193,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-14 00:25:04 +0000"
+      "apple": "2024-12-14 00:25:04 +0000",
+      "golden_apple": "2024-12-14 04:20:55 +0000"
     },
     "done": false
   },
@@ -308,6 +309,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 04:23:31 +0000"
     },
     "done": true
   },
@@ -535,6 +542,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-14 04:26:26 +0000"
     },
     "done": true
   },
