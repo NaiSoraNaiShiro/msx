@@ -18258,3 +18258,48 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Dec2024 23:54:46.382] [Server thread/DEBUG] [FTB Quests/]: sending team data for team Negks's Party to player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, self = true
 [13Dec2024 23:54:46.382] [Server thread/DEBUG] [FTB Quests/]: sending team data for team NaiSoraNaiShiro to player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, self = false
 [13Dec2024 23:54:46.384] [Server thread/DEBUG] [firstaid/]: Sending damage model to TextComponent{text='Negks', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[13Dec2024 23:56:58.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Frangelo]
+[13Dec2024 23:57:11.172] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[13Dec2024 23:57:11.172] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[13Dec2024 23:57:17.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[13Dec2024 23:57:17.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[13Dec2024 23:57:17.946] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[13Dec2024 23:57:17.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[13Dec2024 23:57:17.963] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[13Dec2024 23:57:18.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:57:18.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:57:48.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Amateur Archaeologist]
+[13Dec2024 23:58:08.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[13Dec2024 23:58:20.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [They're out there...]
+[13Dec2024 23:58:20.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Now everything belongs to me.]
+[13Dec2024 23:58:47.828] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[13Dec2024 23:59:04.726] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[13Dec2024 23:59:04.733] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[13Dec2024 23:59:04.734] [Server thread/DEBUG] [mixin/]: kiwi.mixins.json:WorkAtComposterAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13Dec2024 23:59:04.734] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$c01d4c$0 in kiwi.mixins.json:WorkAtComposterAccess
+[13Dec2024 23:59:04.734] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$c01d4c$1 in kiwi.mixins.json:WorkAtComposterAccess
+[13Dec2024 23:59:04.750] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[13Dec2024 23:59:04.750] [Server thread/DEBUG] [mixin/]: pehkui.mixins.json:compat116plus.VillagerBreedTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[13Dec2024 23:59:04.757] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[13Dec2024 23:59:41.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 00:00:31.322] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 00:00:33.914] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[14Dec2024 00:00:33.915] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[14Dec2024 00:00:33.915] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[14Dec2024 00:02:17.949] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[14Dec2024 00:02:17.950] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[14Dec2024 00:02:17.960] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[14Dec2024 00:02:17.960] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[14Dec2024 00:02:17.960] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[14Dec2024 00:02:17.961] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[14Dec2024 00:02:17.963] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[14Dec2024 00:02:17.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:02:18.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:03:51.272] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 00:03:56.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frangelo moved wrongly!
+[14Dec2024 00:04:09.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[14Dec2024 00:04:15.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 00:04:19.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 00:05:51.326] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[14Dec2024 00:06:00.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Monster Hunter]
+[14Dec2024 00:06:05.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
