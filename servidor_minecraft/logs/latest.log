@@ -1398,3 +1398,12 @@
 [14Dec2024 21:29:29.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
 [14Dec2024 21:29:37.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [14Dec2024 21:29:45.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Huddle Close]
+[14Dec2024 21:36:21.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: Disconnected
+[14Dec2024 21:36:21.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[14Dec2024 21:36:21.371] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 21:36:35.730] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2abdc461
+[14Dec2024 21:36:35.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NaiSoraNaiShiro[/100.113.131.81:3858] logged in with entity id 712161 at (79.66805323058172, 96.0, -438.01540745566115)
+[14Dec2024 21:36:35.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro joined the game
+[14Dec2024 21:36:35.756] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 21:36:35.835] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 21:37:21.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
