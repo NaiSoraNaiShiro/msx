@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-14 21:13:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-12 19:53:19 +0000"
@@ -664,7 +670,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2024-12-12 19:54:08 +0000"
+      "opened_chest": "2024-12-12 19:54:08 +0000",
+      "opened_cart": "2024-12-14 21:13:50 +0000"
     },
     "done": false
   },
