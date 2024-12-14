@@ -39,7 +39,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "tomato": "2024-12-12 20:09:04 +0000"
+      "tomato": "2024-12-12 20:09:04 +0000",
+      "pumpkin": "2024-12-14 00:23:30 +0000"
     },
     "done": false
   },
@@ -579,6 +580,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-12 19:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2024-12-14 00:23:30 +0000"
     },
     "done": true
   },
