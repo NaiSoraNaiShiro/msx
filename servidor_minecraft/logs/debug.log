@@ -20647,3 +20647,92 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [14Dec2024 23:04:17.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-358
 [14Dec2024 23:04:17.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 23:04:17.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:05:25.463] [IO-Worker-357/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-359
+[14Dec2024 23:06:32.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Zombie
+[14Dec2024 23:06:32.368] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:06:32.380] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 39 is dual wielding: false
+[14Dec2024 23:06:32.381] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[14Dec2024 23:06:32.381] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[14Dec2024 23:06:32.382] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:06:32.894] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:06:32.895] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 40 is dual wielding: false
+[14Dec2024 23:06:32.895] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[14Dec2024 23:06:32.900] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[14Dec2024 23:06:32.900] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:06:34.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:06:34.998] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:06:59.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 23:07:28.759] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 23:07:55.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:08:49.546] [IO-Worker-359/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-360
+[14Dec2024 23:08:49.547] [IO-Worker-359/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-361
+[14Dec2024 23:08:52.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Negks
+[14Dec2024 23:08:52.403] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:08:52.404] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[14Dec2024 23:08:52.404] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 23:08:52.405] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 23:08:52.405] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:08:52.928] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:08:52.928] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[14Dec2024 23:08:52.929] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 23:08:52.929] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 23:08:52.929] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:08:53.394] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:08:53.395] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[14Dec2024 23:08:53.396] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 23:08:53.396] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 23:08:53.397] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:08:53.941] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:08:53.942] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[14Dec2024 23:08:53.942] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 23:08:53.943] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 23:08:53.943] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:08:57.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:08:57.979] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:09:17.186] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-362
+[14Dec2024 23:09:17.186] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-363
+[14Dec2024 23:09:17.187] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-364
+[14Dec2024 23:09:17.201] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-365
+[14Dec2024 23:09:17.205] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-366
+[14Dec2024 23:09:17.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:09:17.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:09:28.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:09:31.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 23:09:46.977] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 23:09:55.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Gamerule doDaylightCycle is now set to: false]
+[14Dec2024 23:10:48.709] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 23:11:17.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 23:11:36.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Zombie
+[14Dec2024 23:11:37.987] [IO-Worker-363/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-367
+[14Dec2024 23:11:43.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:11:43.773] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:11:54.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:11:55.125] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-368
+[14Dec2024 23:11:55.135] [IO-Worker-366/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-369
+[14Dec2024 23:12:23.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Zombie
+[14Dec2024 23:12:25.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:12:25.378] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:13:00.541] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 23:13:18.923] [IO-Worker-363/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-370
+[14Dec2024 23:14:08.659] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 23:14:08.759] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 23:14:17.181] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-371
+[14Dec2024 23:14:17.185] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-372
+[14Dec2024 23:14:17.186] [IO-Worker-363/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-373
+[14Dec2024 23:14:17.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-374
+[14Dec2024 23:14:17.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-375
+[14Dec2024 23:14:17.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-376
+[14Dec2024 23:14:17.191] [IO-Worker-374/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-377
+[14Dec2024 23:14:17.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-378
+[14Dec2024 23:14:17.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-379
+[14Dec2024 23:14:17.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:14:17.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:14:33.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Zombie
+[14Dec2024 23:14:33.494] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:14:33.494] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[14Dec2024 23:14:33.494] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[14Dec2024 23:14:33.494] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[14Dec2024 23:14:33.494] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:14:35.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:14:35.235] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:15:30.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
