@@ -548,6 +548,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2024-12-14 03:26:12 +0000"
+    },
+    "done": true
+  },
   "ag_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement": "2024-12-12 20:11:33 +0000"

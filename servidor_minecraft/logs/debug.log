@@ -21674,3 +21674,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 03:18:41.640] [Server thread/DEBUG] [FTB Quests/]: sending team data for team Negks's Party to player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, self = true
 [14Dec2024 03:18:41.640] [Server thread/DEBUG] [FTB Quests/]: sending team data for team NaiSoraNaiShiro to player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, self = false
 [14Dec2024 03:18:41.642] [Server thread/DEBUG] [firstaid/]: Sending damage model to TextComponent{text='Negks', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[14Dec2024 03:20:10.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Crops of the Wild]
+[14Dec2024 03:20:32.322] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 03:22:17.939] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-352
+[14Dec2024 03:22:17.940] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-353
+[14Dec2024 03:22:17.940] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-354
+[14Dec2024 03:22:17.941] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-355
+[14Dec2024 03:22:17.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-356
+[14Dec2024 03:22:17.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-357
+[14Dec2024 03:22:17.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-358
+[14Dec2024 03:22:17.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 03:22:18.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 03:23:19.586] [IO-Worker-355/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-359
+[14Dec2024 03:23:52.275] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 03:26:12.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [A Glorious Feast]
+[14Dec2024 03:27:12.222] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 03:27:12.222] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 03:27:17.939] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-360
+[14Dec2024 03:27:17.940] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-361
+[14Dec2024 03:27:17.940] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-362
+[14Dec2024 03:27:17.941] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-363
+[14Dec2024 03:27:17.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-364
+[14Dec2024 03:27:17.947] [IO-Worker-355/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-365
+[14Dec2024 03:27:17.949] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-366
+[14Dec2024 03:27:17.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 03:27:18.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
