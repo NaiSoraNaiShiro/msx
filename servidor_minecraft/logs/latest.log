@@ -467,3 +467,35 @@
 [14Dec2024 05:29:59.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
 [14Dec2024 05:30:09.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
 [14Dec2024 05:30:21.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 05:32:14.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Frangelo]
+[14Dec2024 05:32:30.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 05:32:48.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 05:33:10.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 05:33:10.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 05:33:10.241] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 05:33:29.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 05:34:55.544] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49a2d2a4
+[14Dec2024 05:34:55.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50761] logged in with entity id 2491771 at (816.2986478856731, 84.0, 440.9109590882725)
+[14Dec2024 05:34:55.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 05:34:55.583] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 05:34:55.630] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 05:35:20.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: Disconnected
+[14Dec2024 05:35:20.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[14Dec2024 05:35:20.036] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 05:36:15.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Husk
+[14Dec2024 05:36:19.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 05:36:19.197] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 05:37:28.635] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[14Dec2024 05:37:28.649] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-14_01-37-27.zip"
+[14Dec2024 05:38:47.154] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23c05fec
+[14Dec2024 05:38:47.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NaiSoraNaiShiro[/100.113.131.81:61015] logged in with entity id 2518574 at (68.52020263890273, 96.0, -432.2192800032847)
+[14Dec2024 05:38:47.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro joined the game
+[14Dec2024 05:38:47.177] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 05:38:47.225] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[14Dec2024 05:39:23.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 05:39:26.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was executed by NaiSoraNaiShiro
+[14Dec2024 05:39:31.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 05:39:31.969] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 05:39:33.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 05:40:11.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Negks> [name:"Muerte 01:36:15 12-14-2024", x:918, y:72, z:457, dim:minecraft:overworld]
+[14Dec2024 05:40:35.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to 918.500000, 72.000000, 457.500000]
