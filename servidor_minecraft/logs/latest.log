@@ -233,3 +233,10 @@
 [14Dec2024 02:15:40.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Frangelo: Gamerule doDaylightCycle is now set to: false]
 [14Dec2024 02:16:52.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Made Frangelo no longer a server operator]
 [14Dec2024 02:19:42.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Frangelo]
+[14Dec2024 02:31:21.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Frangelo]
+[14Dec2024 02:35:41.203] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f75727b
+[14Dec2024 02:35:41.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:49846] logged in with entity id 1251348 at (97.3616858017071, 72.0, -432.5216047475227)
+[14Dec2024 02:35:41.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 02:35:41.234] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 02:35:41.299] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:36:20.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
