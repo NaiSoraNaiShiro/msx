@@ -87,6 +87,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-14 03:33:31 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2024-12-12 19:53:19 +0000"

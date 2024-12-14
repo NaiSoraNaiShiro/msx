@@ -297,3 +297,8 @@
 [14Dec2024 03:18:41.637] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
 [14Dec2024 03:20:10.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Crops of the Wild]
 [14Dec2024 03:26:12.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [A Glorious Feast]
+[14Dec2024 03:32:13.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has reached the goal [Modern Materials]
+[14Dec2024 03:33:52.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 03:36:16.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has reached the goal [Dinner's Served!]
+[14Dec2024 03:37:28.628] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[14Dec2024 03:37:28.639] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-13_23-37-27.zip"

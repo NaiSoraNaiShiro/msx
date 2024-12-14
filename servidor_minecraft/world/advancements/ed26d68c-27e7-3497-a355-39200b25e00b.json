@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2024-12-14 03:32:13 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
@@ -272,6 +278,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/hoglin_armor": {
+    "criteria": {
+      "has_item": "2024-12-14 03:35:42 +0000"
     },
     "done": true
   },

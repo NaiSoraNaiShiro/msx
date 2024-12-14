@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-12-14 03:36:16 +0000"
+    },
+    "done": true
+  },
   "nameless_trinkets:obtain/broken_magnet": {
     "criteria": {
       "broken_magnet": "2024-12-12 21:15:50 +0000"
