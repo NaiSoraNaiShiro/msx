@@ -1874,3 +1874,110 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [14Dec2024 23:21:28.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
 [14Dec2024 23:21:56.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
 [14Dec2024 23:22:37.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:26:21.480] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14Dec2024 23:28:37.703] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14Dec2024 23:28:57.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:29:16.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:30:22.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:30:39.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:30:51.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 23:31:18.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Husk
+[14Dec2024 23:31:20.527] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player Negks is missing a damage model!
+	Index: 4
+	Listeners:
+		0: NORMAL
+		1: ASM: class com.momosoftworks.coldsweat.common.event.TempEffectsCommon onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+		2: ASM: class com.momosoftworks.coldsweat.util.compat.CompatManager onLivingTempDamage(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+		3: LOW
+		4: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+java.lang.IllegalArgumentException: Player Negks is missing a damage model!
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:143)
+	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:143)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:93)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:258)
+	at net.minecraftforge.eventbus.ASMEventHandler_905_EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at TRANSFORMER/forge@40.2.4/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:529)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:979)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:46)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:413)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:235)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.Connection.m_129483_(Connection.java:245)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[14Dec2024 23:31:20.594] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /100.79.52.6:50196
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage model!
+	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:143) ~[firstaid-1.11.1.jar%23138!/:1.11.1]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.18.2-40.2.4-universal.jar%23265!/:?]
+	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:143) ~[firstaid-1.11.1.jar%23138!/:1.11.1]
+	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:93) ~[firstaid-1.11.1.jar%23138!/:1.11.1]
+	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:258) ~[firstaid-1.11.1.jar%23138!/:1.11.1]
+	at net.minecraftforge.eventbus.ASMEventHandler_905_EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:529) ~[forge-1.18.2-40.2.4-universal.jar%23265!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:979) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:46) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23260!/:?]
+	... 9 more
+[14Dec2024 23:31:20.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Internal server error
+[14Dec2024 23:31:20.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 23:31:20.626] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 23:31:24.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Husk
+[14Dec2024 23:31:24.986] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Dec2024 23:31:24.986] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 16 is dual wielding: false
+[14Dec2024 23:31:24.987] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[14Dec2024 23:31:24.987] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[14Dec2024 23:31:24.987] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Dec2024 23:31:27.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:31:27.043] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:31:28.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30ead452
+[14Dec2024 23:31:28.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:50253] logged in with entity id 1497161 at (-1464.5391140327522, 72.5, -856.3068929307526)
+[14Dec2024 23:31:28.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 23:31:28.354] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:31:28.366] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 23:32:01.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:32:38.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:32:48.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> a
+[14Dec2024 23:33:22.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 23:33:22.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 23:33:22.825] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 23:33:59.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[14Dec2024 23:34:10.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 23:34:54.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 23:35:26.592] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
