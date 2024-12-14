@@ -19930,3 +19930,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 22:14:13.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 22:14:20.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Gamerule doDaylightCycle is now set to: false]
 [14Dec2024 22:14:29.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 22:15:16.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 22:15:24.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Who is Cutting Onions?]
+[14Dec2024 22:15:34.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 22:15:45.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[14Dec2024 22:15:45.498] [IO-Worker-276/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-279
+[14Dec2024 22:15:45.510] [IO-Worker-276/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-280
+[14Dec2024 22:15:45.517] [IO-Worker-278/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-281
+[14Dec2024 22:16:49.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Creative Mode]
+[14Dec2024 22:17:16.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[14Dec2024 22:17:28.559] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Dec2024 22:18:03.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[14Dec2024 22:18:58.526] [IO-Worker-281/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-282
+[14Dec2024 22:19:13.177] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-283
+[14Dec2024 22:19:13.178] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-284
+[14Dec2024 22:19:13.184] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-285
+[14Dec2024 22:19:13.184] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-286
+[14Dec2024 22:19:13.185] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-287
+[14Dec2024 22:19:13.186] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-288
+[14Dec2024 22:19:13.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:19:13.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:20:48.509] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Dec2024 22:22:03.876] [IO-Worker-278/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-289
+[14Dec2024 22:22:03.877] [IO-Worker-288/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-290
+[14Dec2024 22:24:08.410] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Dec2024 22:24:08.509] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Dec2024 22:24:13.181] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
+[14Dec2024 22:24:13.182] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[14Dec2024 22:24:13.182] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[14Dec2024 22:24:13.182] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[14Dec2024 22:24:13.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[14Dec2024 22:24:13.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[14Dec2024 22:24:13.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[14Dec2024 22:24:13.193] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[14Dec2024 22:24:13.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:24:13.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
