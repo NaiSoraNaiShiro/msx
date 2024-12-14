@@ -240,3 +240,24 @@
 [14Dec2024 02:35:41.234] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 02:35:41.299] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
 [14Dec2024 02:36:20.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 02:41:13.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Frangelo to NaiSoraNaiShiro]
+[14Dec2024 02:41:51.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Disconnected
+[14Dec2024 02:41:51.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 02:41:51.282] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:41:57.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77619eec
+[14Dec2024 02:41:57.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:49888] logged in with entity id 1298358 at (80.41001463655627, 72.0, -421.9567390566512)
+[14Dec2024 02:41:57.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 02:41:57.213] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 02:41:57.256] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:44:27.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo has made the advancement [Diamonds!]
+[14Dec2024 02:45:57.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Negks lost connection: Timed out
+[14Dec2024 02:45:57.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks left the game
+[14Dec2024 02:45:57.386] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[14Dec2024 02:47:42.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frangelo was slain by Husk
+[14Dec2024 02:47:45.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Dec2024 02:47:45.538] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 02:48:38.489] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@359ca061
+[14Dec2024 02:48:38.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Negks[/100.79.52.6:49828] logged in with entity id 1346844 at (70.78449752616369, 72.0, -425.4477720771801)
+[14Dec2024 02:48:38.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks joined the game
+[14Dec2024 02:48:38.511] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 02:48:38.553] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b8ce6e18-9f77-3a95-8e24-69a8490aa4d3

@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2024-12-14 02:44:27 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-13 23:52:22 +0000"
@@ -385,6 +391,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2024-12-14 02:39:13 +0000",
       "fir_clearing": "2024-12-14 00:51:57 +0000"
     },
     "done": false
@@ -602,6 +609,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-13 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-14 02:44:27 +0000"
     },
     "done": true
   },

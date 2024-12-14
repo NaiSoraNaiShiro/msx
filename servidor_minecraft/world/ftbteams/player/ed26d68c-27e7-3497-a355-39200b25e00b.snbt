@@ -2,9 +2,7 @@
 	id: "ed26d68c-27e7-3497-a355-39200b25e00b"
 	type: "player"
 	player_name: "Frangelo"
-	ranks: {
-		ed26d68c-27e7-3497-a355-39200b25e00b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Frangelo"
 		"ftbteams:description": ""
